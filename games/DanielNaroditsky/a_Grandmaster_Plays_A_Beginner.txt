@@ -1,0 +1,41 @@
+url: https://youtu.be/XzgnlvT5-6Y
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 (4. Bxc6 {test!} dxc6 5. Nxe5 Qd4 6. Nf3 Qxe4+ 7. Kf1)Nf6 5. Nc3 b5 6. Bb3 Bc5 7. O-O d6 {Preparing to pin the knight to the queen, a piece is pinned when it cannot be moved without losing another more valuable piece behind it.} (7... Bb7 {The fiancheto that was mentioned})8. d3 Bg4 9. h3 Bh5 10. Bg5 (10. g4 Bg6 11. Bg5)h6 11. Bh4 (11. Bxf6 Qxf6 12. Bd5 Nd4)g5 12. Qe2 (12. Bg3 Nd4)gxh4 13. Nd5 Nd4 14. Nxf6+ Qxf6 15. Qd1 Nxf3+ 16. gxf3 Rg8+ 17. Kh1 (17. Kh2 Qf4+ 18. Kh1 Bxf3+ 19. Qxf3 Qxf3+ 20. Kh2 Qg2#)Bxf3+ 18. Qxf3 Qxf3+ 19. Kh2 Qg2#
+timestamps
+115: start b,
+{122 129 134.1 134.9 139 163 174 180 200 210.1 
+210.9 244 276 309 373.1 374.5 386 403 406 
+423 426 432 453 473 503 533 554 555 
+559 574 579 582 586 629 684 694 700 705}: next,
+727: jump start,
+731: jump forward 6,
+734.9: var 0,
+735.5: next,
+737: next,
+805: next,
+811.5: next,
+813: next,
+823.6: next,
+836: jump back 7,
+841: jump forward 12 1,
+862: var 0,
+866.3: next,
+870.5: next,
+882: jump back 3,
+882.5: jump forward 2,
+890: var 0,
+890.5: next,
+903: next,
+908: next,
+933: jump back 4,
+933.5: jump forward 2,
+934: var 0,
+937: next,
+944.5: jump back 2,
+947: next,
+987: jump forward 9 1,
+1001: var 0,
+1002: next,
+1003: next,
+1007: next,
+1020: jump forward 4 1,
+1030: end

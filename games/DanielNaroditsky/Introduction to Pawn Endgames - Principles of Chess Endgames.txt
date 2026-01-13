@@ -1,0 +1,79 @@
+url: https://youtu.be/QUqq7wSLE78
+name : example1
+type : game
+start_position : 8/8/1r1k2p1/3Ppp1p/1P6/P7/1P3PP1/2R3K1 w - - 0 1
+value : 1. Rc6 (1. Rc4 Kxd5 2. b3 e4 3. a4 g5 4. b5 f4 5. Rc7 (5. Rb4 Kc5) {Annalysis of this variation ends here, white is winning in this position.})Rxc6
+2. dxc6 Kxc6  3. f4 (3. b3 g5 4. Kf1 h4 5. Kg1 e4 6. Kf1 g4 7. Kg1 (7. g3 h3 8. Kg1 f4 9. gxf4 g3 10. fxg3 h2+ 11. Kg2 e3 {And the pawns are unstoppable.})f4  8. Kf1 h3 9. gxh3 gxh3 10. Kg1 e3 {whichever pawn the king trys to stop, the other promotes.})
+exf4 (3... e4 4. g3 g5 5. fxg5 f4 {White's pawn promotes first.}) 4. Kf2 {Switch to example2 to watch the next part of this video.} Kb5 5. b3 g5 6. Kf3 h4 7. Ke2 g4 8. Kf2 h3 
+(8... Kc6 9. a4 Kb6 10. b5 Ka5 11. b4 Kb6 12. Kg1 g3 13. Kf1 f3 14. gxf3 h3 15. f4 Kb7 16. a5 Ka7 17. b6 Kb7 18. b5 Kb8 19. a6 Ka8 20. b7 Ka7 21. Kg1 Kb8 22. b6 (22. Kh1 Ka7 23. b6 Kb8 24. Kg1 h2+ 25. Kh1 g2+ 26. Kxg2 h1=Q 27. Kxh1)
+h2+ 23. Kg2 h1=Q 24. Kxh1 g2 25. Kxg2 {stailmate! Proceed to example 3 for the final section of the video.})
+9. gxh3 gxh3 10. Kf3 Kb6 {You cannot take the pawns because the h pawn would then promote.} 11. a4 Ka6 12. b5 Ka5 13. b4 Kb6 14. Kf2 Kb7 15. a5 Ka7 16. b6 Ka6 17. b5 Kb7 18. Kf3 Kb8 19. a6 Ka8 20. b7 Ka7 21. b6 Kb8 22. Kf2 f3 23. Kxf3 f4 {Do not take this pawn or you let the other one promote!} 24. Kf2 h2 25. Kg2 f3+ 26. Kxh2 f2 27. a7+ (27. Kg2 f1=Q 28. Kxf1 {and its stailmate!}) Kxb7 28. Kg2 Ka8 29. Kxf2 {This is the position shown in example 2.}
+--
+name : example2
+type : game
+start_position : 8/8/2k5/8/1P6/P7/1P3K2/8 w - - 0 1
+value : 1... Kb5 2. b3 Kb6 3. a4 Ka6 4. b5 Ka5 5. b4 Kb6 6. Kg2 Kb7 7. a5 Ka7 8. b6 Ka6 9. b5 Kb7 10. Kf2 Kb8
+11. a6 Ka8 12. b7 Ka7 13. b6 Kb8 {Any waiting move with the king is stailmate!} 14. a7 Kxb7 15. Ke3 Ka8 16. Kd4 Kb7 17. Kc5 Ka8 18. Kd6 Kb7 19. a8=Q Kxa8  20. Kc6 Kb8 21. b7 Ka7 22. Kc7 Ka6 23. b8=Q {This example ends here. Return to example 1 for the continuation with the pawns.}
+--
+name: example3
+type: game
+start_position: 8/8/1r1k2p1/3Ppp1p/1P6/P7/1P3PP1/2R3K1 w - - 0 1
+value: 1. Rc6+ Rxc6 2. dxc6 g5 3. b5 e4 4. a4 (4. g4 h4 5. gxf5 e3)h4 5. a5 Kc7 6. Kf1 g4 7. g3 h3 8. a6 Kb6 9. Kg1 f4 10. gxf4 g3 11. fxg3 e3 {A few other lines are annalised here, but the premise is the same. The h and e pawns are too far apart for white's king to contain them.}
+timestamps
+422: var 0,
+{425 429 432 438 439 441 450}: next,
+454: var 0,
+458: next,
+460: jump back 2,
+464: next,
+500: jump start,
+527: next,
+531: jump forward 3 0.7,
+568: var 0,
+{571 576}: next,
+579: jump forward 5 1,
+{586 587 588 590}: next,
+591: jump forward 2 0.5,
+{594 595}: next,
+599: jump back 8,
+604: var 0,
+606: jump forward 2 2,
+617: jump forward 4 3.5,
+636: jump back 15,
+667: next,
+679: var 0,
+684: next,
+690: jump forward 3 1,
+715: jump back 5,
+{718 720}: next,
+776: switch next,
+{783 788 790 796 799 800 801 803 809 820 824 827 828 829 832 833 834 836 838 839 840 841 841.8 842.5 844}: next 0,
+{897 899}: next,
+900: jump forward 6 1.3,
+{913 915}: next,
+{931 933 936 939 940 942 943 945 947}: next 0,
+965: switch previous,
+966: jump forward 7,
+{982 984 987 997 1001 1002 1005 1007}: next,
+1011: jump forward 4 1,
+1023: jump forward 23 0.8,
+{1048 1052 1053}: next,
+1055: jump forward 7 1,
+1064: var 0,
+1066: jump forward 2 1,
+1069: jump back 3 0.5,
+{1071.5 1074 1076}: next,
+1110: jump back 40,
+1114: var 0,
+1115: jump forward 7 0.5,
+{1122 1127 1128 1130 1136 1139}: next,
+1145: jump forward 13 1,
+{1165 1184 1186 1187 1189 1192}: next,
+1245: jump back 6 0.5,
+1250: var 0,
+{1250.5 1251 1251.5 1253 1255 1256 1257 1260 1261.5 1263}: next,
+1364: switch example3,
+1367: jump forward 3,
+{1463 1484 1495 1498 1502 1511 1517 1524 1526 1540 1543}: next,
+1550: jump forward 8 1,
+1600: end
