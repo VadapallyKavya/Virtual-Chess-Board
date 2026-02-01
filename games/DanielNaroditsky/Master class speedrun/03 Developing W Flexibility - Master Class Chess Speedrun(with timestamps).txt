@@ -1,0 +1,41 @@
+url: https://youtu.be/tgyq7_g2wV0
+name: the_game
+type: game
+value: 1. e4 e5 2. d4 Nc6 3. dxe5 (3. Nf3 {This position is the scotch opening, usually reached in a different order.}) (3. d5 Ne7) Nxe5 4. Nc3 d6 5. Be3 (5. Bf4)Bg4 6. f3 Bh5 7. Qd2 c5 8. O-O-O Nf6 9. g4 (9. Bb5+ Nc6)Bxg4 (9... Bg6 10. g5 Nh5 11. f4 Nd7)10. fxg4 Nfxg4 11. Bb5+ Ke7 12. Nd5+ Ke6 13. Nh3 Nxe3 (13... f6)14. Nf4#
+--
+name: pawn_storm_example
+type: game
+start_position: r2q1rk1/pp1bbppp/2np1n2/4p3/4P3/1NN1BP2/PPPQ2PP/R3KB1R w KQkq - 0 1
+value: 1. g4 a6 2. h4 a5 3. h5 Rb8 4. g5 Ne8 5. g6
+timestamps
+1: start w,
+{4.5 6 7 23 76 77 127 140 208 217 
+230 238 240 257 270 275 298 304 306 308 
+313 320 327 332 388 389 393}: next,
+401: jump start,
+405: jump forward 4,
+432: var 0,
+498: undo,
+500: var 1,
+505: next,
+528: jump back 2,
+530: jump forward 5 1,
+{540 551 555 556 557 557.5 558}: next,
+562: var 0,
+590: next,
+604: jump back 10 0.3,
+609: var 0,
+622: undo,
+623: jump forward 9 0.5,
+688: switch next,
+691: jump forward 10 1,
+710: switch previous,
+712: jump forward 17,
+742: var 0,
+{745 747 751 753}: next 0,
+783: jump back 5 0.5,
+788: jump forward 4 0.5,
+792: next,
+800: jump forward 3 1,
+844: var 0,
+900: end

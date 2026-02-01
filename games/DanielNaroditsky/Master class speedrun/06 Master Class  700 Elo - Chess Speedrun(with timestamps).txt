@@ -1,0 +1,49 @@
+url: https://youtu.be/NnQmNvrOmCI
+name: game1
+type: game
+value: 1. e4 e5 2. d4 d6 3. Nf3 (3. dxe5 dxe5 4. Qxd8+ Kxd8 5. Nc3 c6) Bg4 4. dxe5 dxe5 (4... Bxf3 5. Qxf3 dxe5 {This avoids losing the pawn since the night no longer pressures it.} 6. Bc4 Nf6 7. Qb3 {The full opera game has been included in the games folder for easy access, please feel free to pause and check it out!})5. Qxd8+ Kxd8 6. Nxe5 Be6
+--
+name: game2
+type: game
+value: 1. e4 e5 2. d4 c6 3. dxe5 Qa5+ 4. Nc3 (4. Bd2 Qxe5 5. Nc3)Qxe5 5. Nf3 Qe6 6. Ng5 Qe5 7. Bc4 b5 (7... d5 8. Bb3 h6 9. Nf3 Qe7 10. O-O {This unpins the pawn and black's d pawn is currently hanging.})8. Nxf7 (8. Bxf7+ Kd8 (8... Ke7 9. O-O h6 10. Nf3)9. Bxg8 Rxg8 10. Nf7+)(8. Bb3 Nh6)b4 (8... Qe7 9. Bb3 (9. Nxh8 bxc4 {white's knight is also trapped, so white loses two pieces for the rook.}) 9. Bb3)9. Nxe5 bxc3 10. Qh5+ Kd8 (10... g6 11. Nxg6 hxg6 12. Qxh8) 11. Nf7+ Kc7 12. Qa5+ Kb7 13. Nd8#
+timestamps
+23: start w,
+{29 30 31 39 72 75 117 121 128 131 139}: next,
+170: jump start,
+173: jump forward 4 1,
+180: var 0,
+181: jump forward 3 1,
+209: jump forward 2 1,
+222: jump back 6,
+223: jump forward 2 1,
+232: next,
+235.5: var 0,
+{236.5 237 248 252 271}: next,
+500: jump back 6,
+502: jump forward 4,
+508: next,
+536: switch next,
+538: start w,
+{540.6 547.6 549 551 566 574 622 631 639 662 708 
+726 755 780 863 931 934 936 963 987 989 
+997 1009 1018 1025}: next,
+1035: jump start,
+1037: jump forward 6 0.8,
+1044: var 0,
+{1047 1049}: next,
+1053: jump back 3,
+1055: jump forward 4,
+1072: jump forward 3 1,
+1090: var 0,
+{1109 1129 1133 1137 1138}: next 0,
+1184: jump back 6,
+1187: next,
+1189: var 0,
+{1194 1217 1221 1222}: next,
+1224: jump back 4,
+1225: var 0,
+{1274 1277 1296}: next,
+1333: jump back 5,
+1339: var 1,
+1344: next,
+1400: end

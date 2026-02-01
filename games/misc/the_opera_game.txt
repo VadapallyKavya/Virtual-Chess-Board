@@ -1,0 +1,4 @@
+1. e4 {This game was briefly annotated by Bobby Fischer, one of the greatest chess players of all time. A couple of his  comments have been included along with other comments and variations written by me to help understand the game better.} e5 2. Nf3 d6 3. d4 Bg4 {This is a weak move already. — Fischer}
+4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Nf6 7. Qb3 Qe7
+8. Nc3 (8. Qxb7 Qb4+ {This forces a queen trade.})c6 9. Bg5 {Black is in what's like a zugzwang position here. He can't develop the [queen's] knight because the pawn is hanging, the bishop is blocked because of the queen. — Fischer}b5
+10. Nxb5 cxb5 11. Bxb5+ Nbd7 12. O-O-O Rd8 13. Rxd7 Rxd7 {Note that the knight on f6 does not actually guard the other knight since it is pinned.} 12. Rd1 Qe6 13. Bxd7+ Nxd7 14. Qb8+ Nxb8 15. Rd8#

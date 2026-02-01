@@ -1,1 +1,0 @@
-1. e4 e5 2. d4 Nc6 3. dxe5 (3. Nf3 {This position is the scotch opening, usually reached in a different order.})Nxe5 4. Nc3 d6 5. Be3 Bg4 6. f3 Bh5 7. Qd2 c5 8. O-O-O Nf6 9. g4 (9. Bb5+ Nc6)Bxg4 (9... Bg6 10. g5 Nh5 11. f4 Nd7)10. fxg4 Nfxg4 11. Bb5+ Ke7 12. Nd5+ Ke6 13. Nh3 Nxe3 (13... f6)14. Nf4#

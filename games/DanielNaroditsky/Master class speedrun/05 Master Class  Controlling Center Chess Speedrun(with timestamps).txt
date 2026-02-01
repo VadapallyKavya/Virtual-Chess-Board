@@ -1,0 +1,37 @@
+url: https://youtu.be/LJa5Df75CJI
+name: game 1
+type: game
+value: 1. e4 Nf6 2. e5 (2. Nc3 e5 {Transposes into the Vienna opening.} (... d5 {The better scandinavian, example found below. This is better because if everything is traded on d5, the queen comes out and cannot be chased away easily.} 3. exd5 Nxd5 4. Nxd5 Qxd5 {The knight on c3 is now gone and can no longer target the queen, as seen in the regular scandinavian defence.}))Ng4 (2... Nd5)
+--
+name: game2
+type: game
+value: 1. e3 e5 2. Bc4 d5 3. Bb3 Nf6 4. Nc3 c6 (4... Be6)5. Nf3 Bd6 6. Ng5 O-O 7. e4 h6 8. Nh3 dxe4 (8... Bg4 9. f3 Bxh3 10. gxh3 {The audio abruptly cuts out when he is annalysing this, its unclear what he was going to say next.})9. Rf1 Bg4 10. f3 exf3 11. Kf2 fxg2 12. Kxg2 Bxd1
+--
+name: Scandinavian Defence
+type: game
+value: 1. e4 d5 2. exd5 Qxd5 3. Nc3 {The queen now gets chased around, giving white some time to develop pieces. The difference in the position from game 1 is that the knight from c3 has been traded off, so now the queen can stand unchallenged in the center for some time.} Qa5
+timestamps
+1: start w,
+{3 7 34 53}: next,
+65: undo,
+72: var 0,
+97: jump back 2,
+98: var 0,
+100: next 0,
+101: undo,
+102: var 0,
+108: switch next,
+109: start b,
+{115 124 127 145 152 191 195 249 280 296 
+311 341 345 378 418 445 506 538 553 554 
+583 588 599 604 612}: next,
+617: jump start,
+{622 626 634}: next,
+682: jump forward 4 1,
+688: var 0,
+723: undo,
+725: next,
+783: jump forward 7 1,
+795: var 0,
+{797 800 801}: next,
+850: end
