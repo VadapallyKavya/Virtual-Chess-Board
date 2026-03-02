@@ -1,0 +1,85 @@
+url: https://youtu.be/yomCUtZukPE
+name: puzzle1
+type: game
+start_position: r3kb1r/pppnpppp/3q1n2/3P3b/4B3/2NQBN1P/PPP2P2/2KR3R w kq - 0 1
+value: 1. Nb5 Qb4 2. Nxc7+ Kd8 3. Nxa8
+--
+name: puzzle2
+type: game
+start_position: 6R1/8/5p1p/k1q5/7P/3p1P2/PR4P1/1K6 b - - 0 1
+value: 1... Qg1#
+--
+name: puzzle3
+type: game
+start_position: b2r4/5pk1/1p2pqp1/8/2BrP2p/1P2QP1P/6P1/3RR1K1 w - - 0 1
+value: 1. e5 Qf4 2. Qxf4 Rxf4 3. Rxd8
+--
+name: puzzle4
+type: game
+start_position: r1b4k/p1q2prp/1n2p3/5p2/3N4/1R1B1Q2/P1P2PPP/1R4K1 w - - 0 1
+value: 1. Rxb6 axb6 2. Qxa8
+--
+name: puzzle5
+type: game
+start_position: 3r1rk1/p4p1p/2p3p1/1p2p1q1/4P3/1P1BP2b/P2Q2P1/2RN1RK1 b - - 0 1
+value: 1... Rxd3 2. Qxd3 Qxg2#
+--
+name: puzzle6
+type: game
+start_position: r5k1/pp4bp/2p5/4pp2/2P3Q1/1P1P2P1/P2q2BP/3R2K1 w - - 0 1
+value: 1. Qxg7+ Kxg7 2. Rxd2
+--
+name: puzzle7
+type: game
+start_position: r4rk1/pp2bppp/8/2p2Q2/8/3B4/q1PN3P/1R1K4 w - - 0 1
+value: 1. Qxh7#
+--
+name: puzzle8
+type: game
+start_position: 4k2r/6qp/3rp1p1/p4p2/P2p1P1Q/8/2P3PP/RR4K1 w k - 0 1
+value: 1. Rb8+ Kf7 2. Rb7+ Kf8 3. Rxg7
+--
+name: puzzle9
+type: game
+start_position: 3rr1k1/pp1b1ppp/3q4/2pPR3/5B2/7P/PP2QPP1/R5K1 w - - 0 1
+value: 1. Rxe8+ Rxe8 2. Qxe8+ Bxe8 3. Bxd6
+--
+name: puzzle10
+type: game
+start_position: 8/pp6/8/2k5/8/1P2K3/P7/8 b - - 0 1
+value: 1... Kb4 2. Kd3 Ka3 3. Kc3 Kxa2
+timestamps
+72: start w,
+228: highlight c6,
+229: highlight b6,
+{254 256 257 258 260}: next,
+264: switch next,
+265: start b,
+358: next,
+368: switch next,
+369: start w,
+{512 517 536 538 540}: next,
+566: switch next,
+567: start w,
+660: highlight d4,
+{690 695 696}: next,
+718: switch next,
+719: start b,
+767: comment [the queenside, A B and C files.],
+{817 818 832}: next,
+834: switch next,
+835: start w,
+944: jump forward 3 1,
+967: switch next,
+968: start w,
+1002: next,
+1005: switch next,
+1007: start w,
+1175: jump forward 5 1,
+1184: switch next,
+1185: start b,
+{1286 1297 1317 1319 1320}: next,
+1334: switch next,
+1335: start b,
+{1381 1385 1388 1389 1390}: next,
+1485: end

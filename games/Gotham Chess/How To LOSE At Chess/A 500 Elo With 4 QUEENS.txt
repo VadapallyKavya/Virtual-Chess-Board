@@ -1,0 +1,23 @@
+url: https://youtu.be/JuSuStu3ZUE
+1. d4 d5 2. e4 dxe4 3. Nc3 f5 4. f3 exf3 5. Nxf3 Qd6 6. Nb5 Qe6+ 7. Be2 Qc6 8. d5 (8. Ne5)Qd7 9. c4 a6 10. Nbd4 g6 11. Bf4 c5 12. Ne6 b5 13. Nc7+ Kd8 14. Nxa8 bxc4 15. Nb6 Qb7  16. Nxc4 Bg7 17. Ng5 Bxb2 18. Nxf7+ Ke8 19. Nxh8 (19. Nfd6 exd6 20. Nxd6)Bxa1 20. Qxa1 Qb4+ 21. Bd2 Qb7 22. O-O Qxd5 23. Ne3 Qd4 24. Qxd4 cxd4 25. Nd5 Be6  26. Bc4 Nf6  27. Nxf6+ exf6 28. Bxe6 Nc6 29. Nf7+ Ke7 30. Bc4 Ne5 31. Nxe5 fxe5 32. Bxa6 e4 33. Bb4+ Ke6 34. Bc4+ Ke5 35. a4 e3 36. a5 f4 37. a6 Ke4 38. a7 d3 39. a8=Q Kd4 40. Rc1 d2 41. Qd8+ Ke4 42. Qe8+ Kd4 43. Qd8+ Ke4 44. Rc3 d1=Q+ 45. Bf1 Qxd8 46. h3 Qd2 47. Rc4+ Kd5 48. Rc5+ Kd4 49. Rc4+ Kd5 50. Rc5+ Kd6 51. Bxd2 exd2 52. Rc2 d1=Q 53. Rf2 Qd4 54. h4 h5 55. Be2 Ke5 56. g3 fxg3 57. Kg2 gxf2 58. Kg3 Qe3 59. Kg2 Qxe2 60. Kg3 f1=Q
+timestamps
+{57 58 63 68 74 77 84 89 95 108
+133 141 147 149}: next,
+154: flash var 0 8,
+{164 167 181 192 193 195 212 220
+233 259 266 267 269 270 280 281 283
+308 310 313 321 324}: next,
+333: var 0,
+{340 342}: next,
+344: jump back 3,
+{345 377 378 386 388 391 402
+403 409 434 443 444 445 446 447 448
+455 456 457 470 472 474 476 478 480 482 528
+530 535 536 538 539 541 543 549 550 552 553
+554 555 557 558}: next,
+560: comment [Queen d5 is checkmate.],
+{563 578 598 602 616 617 620 621 634 636
+655 658 687 714 728 732 734 735 737 738 739
+740 741 752 793 796 807 809 825 829 832
+833 851 856 872 902 908 912 920 929 951 959}: next,
+960: end

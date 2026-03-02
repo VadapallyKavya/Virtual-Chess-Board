@@ -1,0 +1,55 @@
+url: https://youtu.be/UXWYC8k7Gas
+name: game1
+type: game
+value: 1. e4 c6 2. Qh5 Nf6 (2... d5)3. Qe2 d5 4. exd5 (4. e5)cxd5 5. Qd1 Nc6 6. Bb5 Bg4 7. f3 (7. Nf3 e6)Bf5 8. g4 Bg6 9. g5 Nh5 10. d3 Qa5+ 11. Nc3 d4 12. a4 dxc3 13. Bxc6+ bxc6 14. bxc3 Qxc3+ 15. Bd2 Qe5+ 16. Ne2 e6 17. Bc3 Qxg5 18. f4 Nxf4 19. Nxf4 Qxf4 20. Rf1 Qe3+ 21. Qe2 Qxe2+ 22. Kxe2 f6 23. a5 Bd6 24. h4 Kd7 25. d4 Bxc2 26. Ra2 Bb3 27. Rb2 Bc4+ 28. Kd2 Bxf1 29. Rb7+ Bc7 30. Rb4 Rab8 31. Rxb8 Rxb8 32. a6 Bxa6 33. Ke3 g5 34. hxg5 fxg5 35. Kf3 Rb3 36. Ke3 Rxc3+
+--
+name: game2
+type: game
+value: 1. e4 e5 2. d4 f6 (2... d6 3. Nf3 (3. dxe5 dxe5 4. Qxd8+ Kxd8)) (2... exd4 3. c3 c5 {This was a previous game in the speedrun.})3. dxe5 fxe5 4. Qh5+ g6 5. Qxe5+ Qe7 6. Qxh8 Nf6 7. Bh6 Nc6 8. Nc3 Ne5 (8... Qe5 9. Qxf8#)9. O-O-O Nf7 10. Qxf8+ Qxf8 11. Bxf8 Kxf8 12. f4 Ng4 13. Rd2 Nd6 14. Nf3 b6 15. h3 Nf6 16. e5 Ne4 17. exd6 Nxd2 18. Kxd2 cxd6 19. Bd3 Bb7 20. Re1 h5 21. Bxg6 Kg7 22. f5
+timestamps
+70: start b,
+{73 75 96 120 122 126 135 140 142 178
+188 221 225 229 233 237 239 264
+299 342 351 356 373 379 383 385 387 388
+391 403 407 432 442 451 455 465 467.5 468.5
+479 493 502 502.5 503 528 540 551 552 555 556 558
+563 581 587 588 591 592 600 622 628
+631 633 635 639 641 648 649 651 651.5 653 655 662 664}: next,
+672: jump start,
+675: jump forward 3 1,
+680: flash var 0 2,
+684: jump forward 3 0.5,
+688: flash var 0 6,
+697: jump forward 3 1,
+{713 715 718}: next,
+745: var 0,
+748: flash next 0.5,
+749: undo,
+{750 816 845 846 849 851}: next,
+912: highlight f4,
+945: highlight a1,
+947: highlight b1,
+948: highlight h1,
+{988 990 994 995}: next,
+1160: switch next,
+1161: start w,
+{1162 1164 1167 1176 1204 1207 1208 1213 1215
+1241 1242 1246 1273 1281 1287 1292 1309 1315 1320
+1323 1324 1325 1331 1334 1347 1364 1370
+1380 1383 1385 1387 1393 1405 1407 1408 1410 1416
+1417 1420 1431 1435}: next,
+1444: jump start,
+1445: jump forward 3 1,
+1449: var 0,
+1454: flash next 2,
+1457: var 0,
+1458: jump forward 3 1,
+1466: jump back 5,
+1470: var 1,
+{1476 1480}: next 0,
+1785: jump back 3,
+1785.5: jump forward 11,
+1817: next,
+1818: var 0,
+1820: next,
+1900: end

@@ -1,0 +1,63 @@
+url: https://youtu.be/KAH-POAsnyE
+name: game1
+type: game
+value: 1. d4 d5 2. e4 dxe4 3. Nc3 (3. f3 e5 4. dxe5 Qxd1+ 5. Kxd1 Nc6)Nf6 4. f3 Nc6 (4... Bf5 5. g4 Bg6 6. g5 Nd5 7. Nxe4)5. Bf4 (5. d5 Ne5 6. fxe4 e6)Nxd4 6. Nb5 (6. fxe4 Bg4)Nxb5 7. Qxd8+ Kxd8 8. O-O-O+ (8. Bxb5+ c6 9. O-O-O+ Ke8)Nd6 9. Bb5 Bd7 10. Bxd7 Kxd711. Nh3 exf3 12. gxf3 h6 13. Rhe1 e6 14. Re2 Be7 15. Nf2 Rad8 16. Ne4 Nxe4 17. Rxe4 Kc8 18. Bxd6 Rxd6 19. Red4 Rhd8 20. Rxd6 Rxd6 21. Rxd6 Bxd6 22. b4 Bxh2 23. c4 h5 24. Kd1 h4 25. Ke1 h3 26. Kf1 Bf4 27. Kf2 f5 28. a4 g5 29. c5 g4 30. b5 g3+ 31. Kg1 Be3+ 32. Kh1 g2+ 33. Kh2 g1=Q+ 34. Kxh3 Bf2 35. c6 Qg3#
+--
+name: game2
+type: game
+value: 1. e4 e5 2. d4 Nf6 3. dxe5 Nxe4 4. Bc4 c6 (4... Bc5 5. Qd5 Bxf2+ 6. Kf1)5. Qe2 (5. Qf3 d5 6. exd6 Nxd6 {The knight from d6 defends f7!})Nc5 6. Nc3 d5 7. exd6 Kd7 (7... Be6 8. Be3)8. Be3 Bxd6 9. O-O-O Ke8 (9... Ne6 10. Ne4)10. Bg5+
+timestamps
+1: start b,
+{3 6 9 26 40 47 64 116 127 138
+151 189 192 194 199 214 221 237
+248 250 255 259 261 279 282 285.5 290 291
+296 303 306 309 313 314 326 328 337 343 349
+350 352 353 357 360 362 364 365 367 370 372 375
+377 379 415 417 418 421 422 424 425 429 441
+446 447 449 451 452}: next,
+454: highlight g3,
+{456 460 462}: next,
+471: jump start,
+474: jump forward 4 0.7,
+478: var 0,
+{484 490 492 494 500}: next,
+534: jump back 6,
+537: jump forward 3 0.5,
+540: var 0,
+{581 582 584}: next,
+633: jump back 4,
+{636 637}: next,
+640: undo,
+641: var 0,
+{643 647 653}: next,
+677: jump back 4,
+{679 680}: next,
+685: var 0,
+689: next,
+693: jump back 2,
+{695 696 696.5 697}: next,
+701: var 0,
+{723 727 730}: next,
+816: switch next,
+817: start w,
+{818 821 823 831 864 865 916 931}: next,
+959: comment [queen f3],
+{985 1006 1076 1088 1089 1100 1151 1172 1173 1187 1199}: next,
+1241: jump start,
+1245: jump forward 7,
+1258: var 0,
+{1264 1283 1288}: next,
+1295: jump back 3,
+1327: undo,
+1329: next,
+1333: var 0,
+1334: jump forward 3 1,
+1350: jump back 4,
+1351: jump forward 5 0.8,
+1358: var 0,
+1361: next,
+1365: jump back 2,
+1366: jump forward 4 0.7,
+1373: var 0,
+1399: next,
+1475: end
