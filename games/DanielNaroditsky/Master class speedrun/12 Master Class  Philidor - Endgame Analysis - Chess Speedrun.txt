@@ -1,0 +1,95 @@
+url: https://youtu.be/IloLuuXW7lE
+name: game 1
+type: game
+value: 1. e4 e5 2. d4 d6 3. Nf3 (3. dxe5 dxe5 4. Qxd8 Kxd8) f6 4. Bc4 Nc6 5. c3 (5. Be3) a5 6. a4 (6. Qb3 a4 7. Bf7+ Ke7 (7... Kd7 8. Qe6#) 8. Qd5 Ra5) (6. Bxg8 Rxg8)Nh6 7. Bxh6 gxh6 8. Nh4 (8. Ng5 hxg5 9. Qh5+ Kd7 ) (8. Nxe5 fxe5 (8... dxe5 9. Qh5+ Kd7 10. Qf7+ Qe7) 9. Qh5+ Kd7 10. Qf5+ Ke7 11. Qf7#)h5 (8... Qe7 9. Qh5+ Kd8) 9. Qxh5+ Kd7 10. Nf5 (10. Qf5+ Ke8) (10. Ng6)Qe8 11. Bf7 Qd8 12. d5 Ne7 13. Be6#
+--
+name: game2
+type: game
+value: 1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bb5+ Bd7 5. Nc3 Bxb5 6. Nxb5 Nc6 (6... e5 7. Nf3 e4 8. Nd4)7. c3 a6 8. Nd4 Nxd4 9. cxd4 e6 10. Nf3 Bd6 11. d3 Ne7 12. O-O O-O 13. Re1 Qb6 14. a3 Nf5 15. b4 a5 16. Bd2 axb4 17. axb4 Nxd4 (17... Ra6 18. Rxa6 Qxa6) 18. Rxa8 Rxa8 19. Nxd4 (19. Bc3 Nxf3+ 20. Qxf3 Bxb4 21. Rb1 Bxc3 22. Rxb6 Ra1+)Qxd4 20. Qe2 Bxb4
+21. Bxb4 Qxb4 22. g3 Qc3 23. Kg2 b5 (23... Ra1 24. Rxa1 Qxa1 25. Qc2 Qa8 (25... h6 26. Qc8+)26. Qc7)24. Rb1 b4 25. Qb2 Qxb2 26. Rxb2 Rb8 27. Kf3 Kf8 (27... e5 28. Kg4) 28. d4 b3 29. Ke3 Ke7 30. Kd3 Kd6 (30... Kf6)
+31. Kc3 f6 (31... e5 32. dxe5+ Kxe5 33. Re2+ (33. Rxb3)Kd6 34. Kb2) 32. f4 Rb7 33. h4 (33. Kd3 e5 34. dxe5+ fxe5 35. fxe5+ Kxe5 36. Re2+ Kd6)h5 34. Rxb3 (34. Rb1 b2 35. Rxb2) Rxb3+ 35. Kxb3 e5 36. dxe5+ fxe5 38. fxe5+ Kxe5 39. Kc3 Ke4 40. Kd2 Kf3 (40... Kd4)41. Kd3 Kxg3 42. Kd4 Kxh4 43. Kxd5 Kg3 44. Ke4 h4 45. Ke3 h3 46. Ke2 h2 47. Kf1 h1=Q 48. Ke2 Qf3+ 49. Kd2 Kf4 50. Ke1 Qg2 51. Kd1 Ke3 52. Kc1 Kd3 52. Kd1 Qd2#
+timestamps
+46: start w,
+{49 53 54 63 93 102 124 134
+174 182 213 226 253 266 307 324 325 334
+398 422 438 468 481 488 489}: next,
+503: jump start,
+505: jump forward 4 0.7,
+509: var 0,
+509.5: jump forward 3 0.8,
+547: jump back 4,
+{549 552 554 555 556 558}: next,
+560: var 0,
+{562 564}: next,
+565: var 0,
+566: next,
+568: jump back 2,
+{569 576 589}: next,
+593: jump back 8 0.5,
+604: flash var 0 6,
+612: next,
+{620 621 623 625 626}: next,
+640: var 0,
+{643 644 645}: next,
+653: jump back 4,
+655: var 1,
+{660 666 668 680 683 685}: next,
+688: jump back 6,
+693: var 0,
+720: jump back 2,
+770: jump forward 5 1,
+{786 788 788.5 790}: next,
+816: jump back 5,
+818: var 0,
+819: next,
+832: jump back 5 0.8,
+843: var 0,
+{845 846}: next,
+870: jump back 8,
+872: var 1,
+873: next,
+983: switch next,
+989: start b,
+{991 993 995 1008 1009 1010 1012 1034 1042
+1075 1116 1131 1144 1166 1252 1259 1263 1273 1276
+1300 1303 1322 1325 1328 1334 1365 1374 1393 1396
+1463 1490 1496 1502 1553 1599 1607 1624 1625 1630
+1649 1661 1662 1666 1707 1732 1772 1785 1787 1799
+1802 1805 1813 1816 1826 1831 1843 1849 1852 1856
+1861 1867 1885 1891 1897 1901 1903 1911 1912 1914 1916 1917 1918
+1920 1921 1923 1925 1927 1928 1932 1933 1934 1935
+1936 1938 1939 1940 1942 1943 1944 1946 1946.5
+1948 1948.5 1951 1952 1955 1956 1957 1959 1960 1962
+1963 1973 1974}: next,
+1982: jump start,
+1988: jump forward 11,
+1992: var 0,
+{2037 2069 2071}: next,
+2100: jump back 4,
+{2103 2104 2107}: next,
+2113: jump forward 15,
+2143: jump forward 4 1,
+2202: var 0,
+{2207 2209}: next,
+2220: jump back 3,
+{2224 2227 2228}: next,
+2236: var 0,
+{2239 2240 2243 2260 2271 2274 2275}: next,
+2281: jump back 8 0.5,
+2324: jump forward 9 1,
+2338: var 0,
+2340: jump forward 3 1,
+2344: var 0,
+2346: next,
+2351: jump back 2,
+{2361 2378}: next,
+2388: jump back 6,
+2392: jump forward 16 0.5,
+2404: var 0,
+{2405 2406 2429 2446 2448}: next,
+2463: jump back 6 0.5,
+{2481 2482 2484}: next,
+2494: var 0,
+2498: next,
+2501: jump forward 6 0.8,
+2588: end
