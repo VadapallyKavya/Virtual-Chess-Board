@@ -1,0 +1,39 @@
+url: https://youtu.be/ltHf6dLgdLo
+1. e4 e5 2. d4 Nc6 3. dxe5 (3. d5 Nce7) Nxe5 4. Nc3 Nf6 5. f4 Nc6 6. e5 Ng8 7. Nf3 d6 8. Bb5 Bd7 (8... dxe5 9. Qxd8+ Kxd8 10. fxe5 (10. Bxc6 bxc6 11. Nxe5))9. O-O dxe5 10. fxe5 Qe7 (10... Bc5+ 11. Kh1 Nge7 12. Ng5)
+11. Nd5 Qc5+ 12. Be3 Nd4 13. Bxd7+ Kxd7 14. Nc3 Rd8 15. Bxd4 Qc6 16. e6+ fxe6 (16... Qxe6 17. Ne5+ (17. Bf6+ Kc8 18. Qxd8#) (17. Bxg7+ Kc8) Kc8 18. Nxf7) 17. Ne5+ Kc8 18. Nxc6 bxc6 19. Rxf8 Rxf8 20. Bxg7 Rd8 21. Qg4 Nh6 22. Qxe6+ Kb7 23. Bxh8 Rxh8 24. Qxh6
+timestamps
+7.4: start w,
+{10.4 12 15 31.1 70.1 73 113.4 123.1 155.4 181.4
+184.4 195.4 211.4 217.6 269.6 277 284.6 286.6 302 329.8 384.3 393.8 399.8
+520 522 526.4 573 604.2 624.7 632.6 662.2 668.6
+670.6 684.8 686.3 693.1 714.1 732 733.7 746 750.4 758.2 761.7 771.7
+772.7 786 787.2}: next,
+798.5: jump start,
+801: jump forward 4 0.8,
+805.6: var 0,
+811: next,
+823: jump back 2,
+833.5: jump forward 5 1,
+841: jump forward 6 0.8,
+847.5: var 0,
+{848.4 849.7}: next,
+870.4: var 0,
+871.4: next,
+875: next,
+887: jump back 3,
+892: next,
+912: jump back 4 0.5,
+{914.6 915.6 916.3 925.1}: next,
+927.5: var 0,
+{929 930 934}: next,
+947: jump back 4,
+{950.1 951.3 953.6 954.3 956.6 958.3 959.1 961.3 964.2 965.2 965.7 966.7 971.4}: next,
+974: undo,
+975.6: var 0,
+1000: flash var 0 2,
+1005: var 1,
+1032: next,
+1043: jump back 2,
+1074.2: var 0,
+{1076.4 1078}: next,
+1140: end

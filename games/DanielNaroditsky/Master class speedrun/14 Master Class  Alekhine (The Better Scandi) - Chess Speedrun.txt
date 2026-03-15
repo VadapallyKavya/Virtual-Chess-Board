@@ -1,0 +1,127 @@
+url: https://youtu.be/br2ThhGdJXU
+name: game1
+type: game
+value: 1. e4 Nf6 2. Nc3 d5 3. e5 d4 (3... Nfd7 4. d4 (4. e6)e6) 4. exf6 dxc3 5. fxe7 (5. fxg7 cxd2+ 6. Qxd2 Qxd2 7. Bxd2 Bxg7)cxd2+ 6. Qxd2 Qxd2+ 7. Bxd2 Bxe7 8. O-O-O O-O 9. Nf3 Bg4 10. Bf4 c6 (10... Nc6 11. Bxc7 Rac8)11. h3 Bc8 (11... Be6 12. Nd4 Bd5 13. c4 Be6 (13... Be4 14. Re1)) (11... Bxf3 12. gxf3 Na6 (12... Rd8 13. Bc4 Nbd7 14. Bc7) 12. Rd7)
+12. g4 (12. Bc4 Nd7 13. Rhe1 Bc5)Nd7
+--
+name: game2
+type: game
+value: 1. e4 Nf6 2. e5 Nd5 3. Bc4 (3. d4 d6 4. c4 Nb6 5. exd6 cxd6)Nb6 4. Be2 d6 (4... Nc6 5. d4 e6 6. f4)5. d4 Nc6 6. Nf3 (6. exd6 cxd6 7. c4)dxe5 7. dxe5 Qxd1+ 8. Bxd1 Bg4 9. O-O O-O-O 10. Nfd2 (10. Bf4 e6)Bxd1
+11. Rxd1 Nxe5 12. Nc3 e6 13. Nde4 Be7 14. Bf4 Ng6 (14... Nec4 15. Nb5 c6 16. Nxa7#) 15. Be3 (15. Bg3 f5 16. Nd2 f4)f5 16. Rxd8+ (16. Nc5 Rxd1+ (16... f4 17. Rxd8+) 17. Rxd1 f4 18. Bd4 (18. Nxe6 fxe3)e5)Rxd8 17. Nc5 f4 18. Nxe6 fxe3 19. Nxd8 exf2+ 20. Kxf2 Bc5+ 21. Kf1 (21. Kf3)Kxd8 22. Rd1+ (22. Ne4 Be7)Ke7 23. Nd5+ Nxd5 24. Rxd5 Bd6 25. c4 (25. h3 Ke6 26. Rd2 Ne5 27. b3 a5 (27... Nc6) 28. Ke2 b5 29. Kf1 a4 30. bxa4 bxa4 31. Ke2 a3)Bxh2 26. Rh5 Bf4 27. Rxh7 Bh6 28. Kf2 Kf7 29. g4 Kg8 30. Rxh6 gxh6 31. Kf3 Ne5+ 32. Kf4 Nxc4 33. b3 Nd6 34. Ke5 Kf7 35. Kd5 Kg6 36. Ke5 Kg5 
+--
+name: example
+type: game
+start_position: 8/7p/5p2/p6P/1pkn1K2/8/PPP5/4N3 w - - 0 1
+value: 1... a4 2. Ke4 (2. a3 Nb5)a3 3. bxa3 bxa3
+timestamps
+0.5: start b,
+{1.1 4.7 10.7 29.4 35.1 56.6 74.4 76.4 89.6 97.4 123.6
+185.6 192.4 193.6 196.4 203.6 210.9
+261.4 275 313 324 376 386 392}: next,
+519: jump back 2 1,
+526.6: undo,
+528.6: var 0,
+538: jump start,
+540: jump forward 8 0.9,
+548.1: var 0,
+550: jump forward 5 1,
+601.6: jump back 6,
+604.5: jump forward 8 0.5,
+613: jump forward 2 1,
+626.6: next,
+632.6: var 0,
+634: jump forward 2 1,
+641.6: jump back 3,
+644.4: next,
+646.6: next,
+655: var 1,
+{656 684 686}: next,
+689: jump back 2,
+691: var 0,
+{694 696 703}: next,
+706: jump back 6,
+711.1: var 0,
+{714.4 724.4 740.4}: next,
+743: var 0,
+746: next,
+747.1: jump back 2,
+748.6: next,
+762.1: jump back 5,
+766: next,
+781.1: var 0,
+{787.1 788.6 792.1}: next,
+865: jump start,
+866: jump forward 3,
+876: jump forward 2 0.5,
+914.6: switch next,
+918.1: start b,
+{920.6 923.4 931.4 934.9 942.6 960.6 974.6 1005.9 1014.4 1058.4
+1063.1 1081.1 1090.9 1094.4 1096.6 1122.9 1129.4 1171.9 1214.1 1235.9
+1241.1 1248.6 1250.1 1254.1 1262.1 1313.1 1327.1 1340.9 1354.9 1379.6
+1413.4 1414.6 1423.1 1486.9 1503.1 1504.4 1519.1 1520.6 1525.9 1543.6
+1553.1 1554.4 1560.6 1563.4 1571.9 1574.4 1576.1 1584.9 1588.6 1601.9
+1617.4 1634.6 1642.9 1646.4 1666.9 1667.9 1677.1 1678.4 1688.9 1689.4
+1693.9 1695.1 1697.9 1698.9 1700.9 1701.6 1709.9 1711.6 1714.6 1715.6
+1721.6 1722.6}: next,
+1738.4: jump start,
+1740.6: jump forward 4 0.5,
+1745.2: var 0,
+1746.6: jump forward 4 1,
+1756: next,
+1785: jump back 6 0.5,
+{1798.9 1799.6 1803.1 1804.1}: next,
+1813.9: next,
+1818.6: jump back 2,
+1820.1: var 0,
+{1821.4 1825.4 1838.9}: next,
+1841.6: jump back 4 0.6,
+1873: next,
+1891: jump forward 2,
+1892: var 0,
+{1893 1894}: next,
+1898: jump back 5,
+1900.1: jump forward 10 0.5,
+1912.6: var 0,
+1915.9: next,
+1927.4: jump back 2 0.5,
+1931.1: jump forward 9 1,
+1949: var 0,
+1950.6: jump forward 3 1,
+1963: jump back 4,
+1964.9: next,
+1968.9: var 0,
+1970.6: jump forward 3 1,
+1979.4: jump back 4,
+{1982.6 1985.6}: next,
+2004.1: var 0,
+2053.4: var 0,
+2056.1: next,
+2059.1: jump back 2 0.5,
+2076.6: jump forward 3 1,
+{2088.4 2089.1}: next,
+2091.6: jump back 2,
+2092.9: var 0,
+2094.6: next,
+2096.1: jump back 6 0.4,
+2101.4: jump forward 9 1,
+2127.6: next,
+2136.9: flash var 0 1,
+2139.9: next,
+2144.6: next,
+2146.9: var 0,
+2154.4: next,
+2157.6: jump back 2,
+2158.9: jump forward 6 1,
+2168.6: var 0,
+{2200.6 2203.6 2206.1 2211.4}: next,
+{2236.1 2241.9 2245 2246 2247 2248 2249 2250 2251}: next,
+2299.1: jump back 9,
+2303.9: var 0,
+2309.1: jump back 6 0.3,
+{2314.1 2315.1 2316.9 2321.6 2324.1 2325.9}: next,
+2417.1: switch next,
+{2499.1 2504.4 2505.9 2508.1 2509.1}: next,
+2551.9: jump back 4,
+2554.6: var 0,
+2559.9: next,
+2690: end
