@@ -1,0 +1,109 @@
+url: https://youtu.be/RSZfxqk9wNc
+name: game1
+type: game
+value: 1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Qe7 5. Nxc3 c6 6. Nf3 h6 (6... d5 7. Bb3 dxe4 8. Ng5 e3 9. Bxf7+ (9. Bxe3)) 7. O-O d6 8. Re1 (8. e5 d5 9. Bxd5 cxd5 10. Nxd5 Qd8)Be6 9. Nd5 cxd5 (9... Qd8 10. Nd4 (10. Bf4 Nd7)Nd7 (10... Bc8 11. e5) 11. Nxe6 fxe6 12. Qh5+) 10. exd5 Nf6 11. dxe6 Ne4 12. Rxe4 f6 13. Nh4 Nc6 14. Ng6 Qc7 15. Nxh8 Be7 16. Qh5+ Kd8 17. Qf7 Kc8 18. Bf4 a6 19. Rc1 g5 20. Bg3 b5 21. Bd5 Ne5 22. Rxc7+ Kxc7 23. Qxe7+ Kb6 24. Qb7+ Ka5 25. Qc7#
+--
+name: game2
+type: game
+value: 1. e4 c6 2. d4 d5 3. f3 (3. exd5 cxd5 4. Bd3)dxe4 (3... Qb6) (3... g6) (3... e6) 4. fxe4 e6 (4... e5 5. dxe5 (5. Nf3 Be6 6. dxe5 Bc5)Qh4+) 5. Nf3 Ne7 (5... e5) 6. Bd3 Ng6 7. O-O Be7 8. Nc3 (8. c3 O-O 9. Be3)O-O 9. e5 Nd7 (9... c5 10. dxc5 Bxc5+ 11. Kh1 Nc6) 10. h4 (10. h3)Qb6 (10... Nxh4 11. Nxh4 Bxh4 12. Qh5 g6 (12... h6) 13. Qh6) (10... c5)
+11. Kh1 (11. Qe1 Ngxe5 12. Nxe5 Qxd4+) (11. h5)Nxh4 12. Nxh4 Bxh4 13. Qh5 h6 14. Bxh6 Qd8 15. Bxg7 (15. Kg1)Kxg7 16. Qh7#
+--
+name: example1
+type: game
+start_position: r1bq1rk1/ppbn1ppp/2p1pn2/3p4/2PP4/P1N1P1N1/1PQ1BPPP/R1B2RK1 w - - 0 1
+value: 1... h5 2. f4 (2. Nxh5 Nxh5 3. Bxh5 Qh4)h4 3. Nh1 c5
+--
+name: example2
+type: game
+start_position: r1bq1rk1/pp2bppp/2n5/2np4/8/2N1P1N1/PPQBBPPP/R3K2R w KQkq - 0 1
+value: 1... g6 2. O-O h5 3. b4 Ne6 4. Rfd1 h4 5. Nf1 Bxb4
+timestamps
+25.6: start w,
+{29.4 40 45 51.4 54.4 62.9 67.7 81.4 108.6 118.8 152.7
+158.0 172.3 180.1 229.8 270.9 319.8 327.1 329.3 379.7 381.2
+390.4 393.8 413.5}: next,
+428.6: comment [He refers to them as the dark squares but he is actually highlighting the light squares, specifically g6.],
+{442.3 470.1 485.9 492.6 494.4 504.6 506.6 514.1 522.6 527.1
+532.8 560.0 572.0 574.7 587.2 601.5 615.8 659.8 666.0
+670.0 671.0 681.3 689.3 695.8 697.3}: next,
+703.0: jump start,
+705.3: jump forward 8 0.7,
+736.2: jump forward 3 1.5,
+744.1: var 0,
+{747.0 748.3 782.8}: next,
+794.8: jump back 4 0.5,
+797.6: jump forward 3 0.5,
+801.7: var 0,
+{803.7 805.9 807.2 808.7 811.6}: next,
+814.8: jump back 6 0.4,
+818.1: jump back 3 0.3,
+820.1: var 0,
+821.6: jump forward 4 0.6,
+826.4: next,
+829.9: comment [The king is out of escape squares and the queen must sacrifice itself for the bishop on f7.],
+832.8: jump back 6 0.4,
+836.8: next,
+839.1: jump forward 5 0.8,
+848.2: var 0,
+888.0: var 0,
+892.8: next,
+896.9: jump back 2,
+899.1: next,
+{907.5 909.5 910.7 915.0}: next,
+917.6: jump back 4,
+924.2: var 0,
+927.8: next,
+1013.1: switch next,
+1017.6: start w,
+{1022.8 1025.6 1044.5 1045.5 1059.3 1062.0 1064.5 1066.6 1083.6 1085.3
+1100.3 1102.8 1104.6 1115.7 1143.5 1148.0 1156.7 1184.7 1215.8 1217.6
+1281 1285.4 1288.7 1290.2 1306.0 1320.3 1353.9 1385.8 1403.5 1452.7 1453}: next,
+1459.4: jump start,
+1514.7: jump forward 4 0.5,
+1522.6: var 0,
+1523.3: jump forward 2 1,
+1536.5: jump back 3,
+1538.8: next,
+1559.3: jump forward 2 0.5,
+1562.3: var 0,
+{1565.7 1567.7}: next,
+1568.9: jump back 2,
+1571.9: var 0,
+{1589.7 1603.4 1608.7}: next,
+1611.5: jump back 7 0.3,
+1614.8: flash var 0 2,
+1621.1: flash var 1 1.5,
+1623.6: flash var 2 1,
+1625.5: jump forward 3 0.7,
+{1639 1646.2 1675.1 1676.1 1676.8 1677.6 1681.1}: next,
+1684.4: undo,
+1688.4: var 0,
+{1701.7 1704.5}: next,
+1710: jump back 3,
+{1722.7 1723.2 1728.0}: next,
+1739.7: var 0,
+{1750.0 1751.5 1753.2 1756.1}: next,
+1765.8: jump back 5,
+{1767.6 1784.1}: next,
+1796.2: switch next,
+1812.4: start b,
+1850.0: next,
+1932: var 0,
+{1933.7 1934.7 1938.8}: next,
+1943.0: jump back 4,
+{1944.6 1951.9 1952.9 1954.4}: next,
+1986.4: switch next,
+2013.7: highlight d5,
+2030.5: highlight f5,
+{2036.3 2039.3 2063 2066.1 2067.7 2069.0 2070.2 2072.0 2073.0}: next,
+2143.0: switch game2,
+2145.5: jump forward 19,
+{2151.1 2151.8 2153.8}: next,
+2156.7: jump back 3,
+2158.9: var 0,
+{2161.7 2162.2 2185.5 2189.6 2197.4}: next,
+2237.0: jump back 6 0.2,
+2241.0: next,
+2243.5: var 0,
+{2259.7 2262.2 2264.0}: next,
+2380: end

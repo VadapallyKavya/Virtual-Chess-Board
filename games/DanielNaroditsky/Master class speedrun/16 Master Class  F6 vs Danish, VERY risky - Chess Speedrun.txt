@@ -1,0 +1,58 @@
+url: https://youtu.be/cmJbc_BzTp8
+name: game1
+type: game
+value: 1. e4 e5 2. d4 f6 (2... Nc6 3. dxe5) (2... Nf6 3. dxe5 Nxe4 4. Bc4) 3. dxe5 fxe5 (3... Nc6 4. exf6 Nxf6) 4. Qh5+ g6 5. Qxe5+ Qe7 (5... Be7 6. Qxh8 Kf7 7. Bc4+ Kf8 8. Qxg8#)6. Qxh8 Bg7 7. Qxg8+ Qf8 8. Qxf8+ Bxf8 9. Nc3 d6 10. Nf3 Nc6 11. Nd5 Kd7 12. Bf4 Bg7 13. O-O-O Ne5 14. Bxe5 dxe5 15. Nb6+ Kc6 16. Nxa8 Bg4 17. a4 Bf8 18. Bb5+ Kc5 19. c3 Bd6 20. b4#
+--
+name: game 2
+type: game
+value: 1. d4 Nf6 2. c4 e6 3. Nc3 (3. Nf3 d5 4. Nc3 Bb4)Bb4 4. e4 (4. Nf3 b6 5. Bd2 Bb7 6. e3 O-O 7. Bd3 d6 8. O-O Nbd7)Nxe4 5. Bd3 Nxc3 6. Qf3 Nb5+ 7. Bd2 Bxd2 8. Kxd2 Nxd4 9. Qg4 Qf6 10. Nf3 Nxf3
+11. Qxf3 Qxb2+ 12. Bc2 Nc6 13. Rhb1 Qxc2 14. Kxc2 Nd4+ 15. Kd3 Nxf3 16. gxf3 b6 17. h4 Ba6 18. f4 d5 19. h5 Bxc4+ 20. Kd4 c5+ 21. Ke5 Ke7 22. Rg1 f6#
+--
+name: game 3
+type: game
+value: 1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. Be2 e6 5. d4 c5 6. h3 Bxf3 7. Bxf3 Nc6 8. dxc5 Bxc5 9. O-O Nxe5 10. Be2 Nf6 11. a3 O-O 12. b4 Bd6 13. Be3 a5 14. bxa5 (14. b5)Qxa5 15. Bd2 Qc7 16. Nc3 Bc5 17. Nb5 Qc6 (17... Bxa3) 18. a4 Ne4 19. Be3 Bxe3 20. fxe3 Nc3
+21. Nxc3 Qxc3 22. e4 dxe4 23. Qc1 Rad8 24. Ra3 Qd2 25. Qxd2 Rxd2 26. Bb5 f5 27. Rc3 b6 28. Rc7 f4 29. Re7 f3 30. Rxe6 Rxg2+ 31. Kh1 Rf5 32. Re8+ Kf7 33. Bd7 Nxd7 34. Rd8 Rh5 35. Rxd7+ Ke6 36. Rb7 Rxh3#
+timestamps
+0.4: start w,
+{2.4 4.9 7.7 12.5 19.5 31.8 37.3 44.1 44.8}: next,
+62.6: var 0,
+{63.7 68.9 70.7 77.0 78.0}: next,
+83.6: jump start,
+89.6: jump forward 4 0.8,
+96.4: next,
+126.2: var 0,
+{130.0 132.0}: next,
+148.3: jump start,
+{150.2 152.7 155.1 158.9 162.1 164.4 166.1 173.5 174.9}: next,
+{176.6 178.4 180.4 181.9 183.6 185.4 186.9 188.6 196.1 197.4
+198.4 200.9 205.6 214.4 218.4 219.6 220.9 249.6 251.1 259.7
+261.9 271.3 280.1 285.3 287.3 288.6 292.2 294.4 299.2 300.7}: next,
+361.5: switch next,
+363.5: start b,
+{367.8 372.6 375.6 378.3 381.8 392.8 395.8 422.6 428.4 430.6
+455.0 513.7 515.3 519.1 520.3 522.1 539.9 554.6 560.9 564.1
+566.6 568.5 571.8 574.6 587.1 611.3 613.3 615.0 619 620
+621.5 637.4 639.9 643.2 644.9 648.7 650.3 652.3 653.6 655.6
+659.2 670.7 674.2 675.2}: next,
+679.5: jump start,
+688.6: jump forward 6 0.8,
+698.6: jump back 2,
+762.9: var 0,
+{772.7 773.9 781}: next,
+806.4: jump back 4 0.5,
+809.5: jump forward 2 0.4,
+836.8: var 0,
+837.8: jump forward 3 1,
+851.0: jump forward 6 1,
+1008.3: switch next,
+1010.9: start b,
+{1013.6 1016.9 1019.1 1021.9 1028.6 1052.4 1059.5 1075.5 1079.7 1088.9
+1092.6 1101.9 1107.4 1115.4 1119.9 1125.1 1127.9 1129.4 1136.7 1148.0
+1150.7 1164.1 1166.4 1183.6 1187.7 1234.7 1258.3 1261.1 1269.8 1291
+1303.6 1382.7 1386.3 1394.1 1399.9 1423.2 1436.2 1453.7 1460.0 1477.0 1489.5 1490.5
+1505.3 1518.6 1541.8 1563.9 1565.6 1592.0 1617.9 1619.2 1623.7 1640.6
+1650.5 1678.6 1694.8 1697}: next,
+{1701.1 1721.2 1735.5 1738.2 1739.4 1756.4 1761.7 1762.7 1773.6 1775.6 1788.1 1804.5 1814.5 1816.0 1827.2 1828.5}: next,
+{1829.9}: next,
+1829.9: comment [This postgame annalysis just goes through the game at fast speeds and doesn't show many variations (with one small exception) so it has not been included. Please continue to listen though since he discusses some great theoretical concepts.],
+2100: end
