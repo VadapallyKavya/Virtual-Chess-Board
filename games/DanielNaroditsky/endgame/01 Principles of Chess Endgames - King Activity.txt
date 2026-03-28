@@ -1,0 +1,106 @@
+url: https://youtu.be/mhUoe2JBxco
+name: example1
+type: game
+start_position: 5k2/p1p4R/1pr5/3p1pP1/P2P1P2/2P2K2/8/8 w - - 0 1
+value: 1. Kg3 (1. g6 Rxg6 2. Rxc7 Rg7) (1. Rd7 Rxc3+ 2. Ke2 c6 3. g6 Rg3)Rxc3+ 2. Kh4 Rf3 3. g6 Rxf4+ 4. Kg5 Re4 (4... Rxd4 5. Kf6 Kg8 6. Rd7) 5. Kf6 Kg8 6. Rg7+ Kh8 7. Rxc7 Re8 8. Kxf5 Re4 9. Kf6 Rf4+ 10. Ke5 Rg4 11. g7+ Kg8 (11... Rxg7) 12. Rxa7 Rg1 13. Kxd5 Rc1 14. Kd6 Rc2 15. d5 Rc1 16. Rc7 Ra1 17. Kc6 Rxa4 18. d6
+--
+name: example2
+type: game
+start_position: 8/pp2kppp/4p3/8/1Pr5/P3PP2/3K1P1P/2R5 b - - 0 1
+value: 1... Rxc1 (1... Rh4 2. Rc7+) 2. Kxc1 Kf6  (2... Kd6 3. Kd2 Kd5 4. Kd3) 3. Kd2 Kg5 4. Ke2 Kh4 5. Kf1 Kh3 6. Kg1 e5 7. Kh1 b5 8. Kg1 f5 9. Kh1 g5 10. Kg1 h5
+11. Kh1 g4 12. e4 fxe4 (12... gxf3 13. exf5) 13. fxe4 h4 14. Kg1 g3 15. hxg3 hxg3 16. f3 (16. fxg3)g2 17. f4 exf4 18. e5 Kg3 20. e6 f3 21. e7 a6 22. e8=Q f2#
+--
+name: example3
+type: game
+start_position: 1k6/2p5/1p3p2/p3p1p1/2P1P3/1P4P1/P3Q1KP/2q5 w - - 0 1
+value: 1. Kh3 (1. h4 gxh4 2. gxh4 Qh6 3. h5 (3. Kh3 Qf4 4. Qg4 Qf1+)Qg5+ 4. Kh3 f5 5. exf5) (1. Qf3 Qd2+ (1... Qc2+))Kc8 2. Kg4 Kd7 3. Kf5 Ke7 4. Kg6 Qh1 5. Kg7 g4 6. Qxg4 Qxh2 7. a4 Qf2 8. Qg6 Kd7 9. g4 (9. Qxf6 Qxg3+)Qg3 (9... Qf4 10. Qf5+ Ke7 11. Kg6 c6 12. Kg7 c5 13. Kg6 Qxf5 14. gxf5)10. Qf5+ Kc6 11. Kxf6 Qxb3 12. g5 Kb7 13. g6 Qxc4 14. g7 Qa2 15. Qe6 Qf2+ 16. Ke7 Qh4+ (16... Qc5+ 17. Ke8) 
+17. Kf8 Qf4+ 18. Qf5 Qh6 19. Kf7 Qe3 20. g8=Q Qb3+ 21. Kg7 Qg3+ 22. Qg6 Qa3 23. Qd5+ (23. Qc6+ Kxc6 24. Qd5#)
+--
+name: example4
+type: game
+start_position: 6N1/2k4p/4p1p1/3p2P1/5P2/Pp1r3P/1P6/2K1R3 b - - 0 1
+value: 1... Kd6 2. Nf6 Rxh3 3. Ne8+ Kc5 (3... Kd7 4. Ng7) 4. Nc7 Kc4 5. Nxe6 d4 6. Re4 (6. Rd1 d3 7. Re1 Rh2 8. Re4+ Kd5 9. Re5+ Kc4 10. Rc5#)Rh1+ 7. Kd2 Rh2+ 8. Kc1 Rh1+
+--
+name: example5
+type: game
+start_position: 5r2/4qpk1/1b1p3p/3BPQpP/1P2P3/2P2RP1/5PK1/8 w - - 0 1
+value: 1. Kf1 (1. Bc6 Ba7 2. Qd7 Qxd7 3. Bxd7) Ba7 2. Ke2 Bb6 3. Kd3 Ba7 4. Kc4 Qc7+ 5. Kb3 (5. Kb5 Qb6+)Qe7 6. g4 Bb6 7. Kc4 Ba7 8. Kb5 Qe8+ (8... Rb8+ 9. Ka6 Rb6+ 10. Ka5) 9. Bc6 Qd8 10. Kc4 Qe7 11. Qd7 Qe6+ (11... Qxd7) 12. Qxe6 fxe6 13. Rxf8 Kxf8 14. Kb5 Ke7 15. Ka6 Bxf2 16. c4 Kd8 17. Kb7 Be1 18. b5 Bf2 19. b6 Bd4 20. Ba4 (20. Ka7 Be3)Be3 (20... d5 21. cxd5) 21. Kc6 Ke7 22. b7
+timestamps
+256.5: highlight g5,
+286.6: var 0,
+{289.8 290.1 291.6}: next,
+295.1: jump start,
+299.4: var 1,
+301.3: jump forward 3 1,
+{305.8 308.8}: next,
+314.5: jump start,
+{346.0 347.8 350.8 375.3 382.6}: next,
+{392.0 392.8}: next,
+394.1: var 0,
+{403.8 405.3 406.8}: next,
+410.7: jump back 4,
+{414.4 416.4 419.1 420.9 422.9 426.6 428.1 430.1 431.1 431.9 437.9 441.4 444.7 446.4}: next,
+479.3: jump forward 14 1,
+504.9: switch next,
+520.1: start b,
+529.4: var 0,
+531.4: next,
+532.9: jump start,
+{534.0 535.0}: next,
+569.3: var 0,
+570.4: jump forward 3 1,
+578.5: jump back 4,
+{588.9}: next,
+592.4: jump forward 7 1,
+{625.2 626.5 628.3 632.5 632.7 633.7 634.2 634.7 635.7 636.2 637.0 638.0 647.2 648.2 649.5 650.2 651.2 657.5 658.2}: next,
+{666.0 669.0 673.0 674.2 675.7 679.4 680.4 681.6 682.9 685.4 686.9 691.4}: next,
+705.0: switch next,
+727.2: start w,
+753.5: var 0,
+{755.2 755.5 758.2 766.2 768.7 769.7 770.7}: next,
+781.0: jump back 4,
+784.0: var 0,
+{786.5 788.7 790.1}: next,
+794.1: jump start,
+{815.5}: var 1,
+817.8: next,
+824.0: jump back 2,
+{828.2 828.9 830.2 830.9 831.6 831.9 832.6 835.8 836.8 864.7 870.7 871.9 876.5 883.2 884.7 890.5 894.3 896.7}: next,
+900.7: undo,
+902.7: var 0,
+{904.5 908.8 932.3 933.0 933.8 934.3 935.3 938.0 939.0}: next,
+944.4: jump back 10,
+{947.1 948.9 950.1 951.4 953.9 954.7 955.9 957.2
+958.2 959.9 968.9 970.6 973.5 974.3 975.5 976.8}: next,
+{990.3 991.5 995.8 996.8}: next,
+1000.7: jump forward 7 1,
+1015.3: var 0,
+{1019.6 1021.3}: next,
+1033.8: switch next,
+1040: start b,
+{1093.1 1094.1 1098.1 1100.6}: next,
+1106.3: var 0,
+1118.8: next,
+1121.3: jump back 2,
+{1125.0 1125.8 1128.0 1130.2 1132.2 1143.7}: next,
+1144.7: undo,
+1148.7: var 0,
+{1150.7 1151.5 1157.7 1159.2 1161.2 1162.5 1164.7 1166.7}: next,
+1173.5: jump back 9,
+{1175.7 1178.2 1179.2 1180.2 1202 1203.4}: next,
+1248.9: switch next,
+1258.1: start w,
+1367.2: var 0,
+1368.4: jump forward 4 1,
+1406.6: jump start,
+{1422.1 1422.8 1423.3 1424.1 1424.3 1425.4 1427.9 1429.1}: next,
+1432.5: var 0,
+1434.5: next,
+1436.8: jump back 2,
+{1438.3 1441.8 1444.6 1457.3 1461.1 1462.8 1464.1}: next,
+1474.8: var 0,
+{1479.3 1480.8 1482.0}: next,
+1485.6: jump back 4,
+{1487.4 1490.4 1491.9 1494.4 1495.5 1497.0 1509.0 1510.8 1511.8 1512.6 1514.3 1527.4 1528.4 1529.4 1530.7 1533.7 1535.3 1537.1 1540.2 1542.2 1543.9 1545.2 1546.5 1552.1 1556.8 1558.6}: next,
+1574.7: comment [I was unable to find the rest of this pgn. I appologise and hope to be updating this with the complete copy soon.],
+1760: end
