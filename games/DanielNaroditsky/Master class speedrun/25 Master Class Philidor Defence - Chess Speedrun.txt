@@ -1,0 +1,7 @@
+Sequence 1
+ 
+1. e4c6 (1. ...e52. Nf3d63. d4Nd7 (3. ...Nf64. dxe5Nxe45. Bc4) 4. Bc4Ngf6 (4. ...Be75. dxe5Nxe5 (5. ...dxe56. Qd5Nh67. Bxh6) 6. Nxe5dxe57. Qh5 (7. Bxf7+Kxf7)g68. Qxe5Nf69. Bh6) (4. ...exd45. Nxd4Ngf6) 5. Ng5d56. exd5Nb67. Bb5+Bd78. Bxd7+Qxd79. dxe5Nfxd510. O-OO-O-O (10. ...h511. e6fxe612. Nxe6Qxe613. Re1) 11. Qf3f612. e6Qc6 (12. ...Qe713. Nf7) 13. Nf7 (13. e7Bxe7)Qxe614. Nxh8) (1. ...d62. d4Nf63. Nc3e5) 2. d4d53. e5Bf54. f4 (4. Nf3e65. Be2) (4. Bd3Bxd3 (4. ...Nh65. Bxh6) 5. Qxd3e66. f4)e65. Bd3 (5. g4Qh4+)Nh66. h3 (6. Nf3c5)Qh4+7. Kf1Bxd3+ (7. ...Ng48. Qe2 (8. hxg4Bxd3+9. Qxd3Qxh1)Bxd39. cxd3Nh610. Nf3Qd811. g4c512. dxc5Bxc513. d4) 8. Qxd3Nf59. Nf3Qd8 (9. ...Ng3+10. Kg1Qd811. Rh2) 10. Nc3 (10. Kf2c5 (10. ...h5) 11. g4Nxd4)Ng3+11. Kg1Nxh112. Kxh1g6 (12. ...c513. f5) (12. ...Nd7) (12. ...h613. f5) 13. f5gxf514. Na4Nd715. Ng5Be716. Qg3Rg817. h4h618. Nxe6Rxg319. Nxd8Kxd820. Bxh6Kc721. Bf4Rg422. e6+Rxf423. exd7Bxh424. Nc5Rh825. Kg1Bf2+26. Kf1Bxd4+27. Ke2Bxc528. g3Rh2+ (28. ...Re4+) 29. Kd3Rf3#
+Sequence 2
+ 
+1. ...exd42. Nxd4Nf63. Nc3g6
+ 
