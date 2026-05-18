@@ -1,0 +1,38 @@
+url: https://youtu.be/jPhLlZ4_c1A
+name: game1
+type: game
+value: 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bg5 (5. Be2) Qb6 6. b3 c5 7. Nc3 cxd4 (7... Nc6 8. Na4 Qa5+ 9. Bd2 Nb4 (9... Qc7 10. Nxc5) 10. a3 Nxc2+ 11. Qxc2 Qxa4 12. Qxf5 Qxd4 (12... Qc4) 13. Nxd4 exf5)
+8. Nxd4 Bb4 9. Bb5+ (9. Qd2 Qa5 10. Ndb5)Nc6 10. Qf3 Qxd4 11. Bd2 Qxe5+12. Ne2 Qxa1+
+--
+name: game2
+type: game
+value: 1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Qe7 5. Ne2 a6 6. Bxc6 dxc6 7. O-O Bd7 8. f4 e4 9. Na3 h5 10. Nc4 O-O-O 11. a4 Nd5 12. Qe1 Kb8 13. Ba3 c5 14. Rb1 h4 15. c3 h3 16. g3 Qe8 17. Qf2 Bg4 18. Ne5 Bc8 19. c4 Nb4 20. Bxb4 cxb4
+21. Nd4 f6 22. Nec6+ bxc6 23. f5 c5 24. Nc2 Bd6 25. Rbd1 Be5 26. Ne1 Qh5 27. Nc2 Rd3 28. Na1 g6 29. fxg6 Qxg6 30. Nc2 Bg4 31. Rde1 Rhd8 32. Re2 Bxe2 33. Qxe2 Rxd2 34. Qh5 (34. Rd1)Qxh5 35. Rf3 Qxf3 36. Ne1 Qg2+ 37. Nxg2 Re2 38. Kf1 Rdd2 39. Ne1 Rxh2 40. Kg1 Bxg3 41. a5 Bxe1 42. Kf1 Rde2 (42... Rh1#)43. Kg1 Ref2
+timestamps
+6.4: start b,
+{9.7 11.7 14.7 17.2 19.5 26.0 29.9 49.4 52.9 74.2
+103.9 112.2 129.7 180.9 183.4 197.9 227.4 237.9 255.4 262.4 273.5 279.1 280.4}: next,
+291.7: jump start,
+291.7: jump forward 8 0.4,
+299.2: var 0,
+315.4: undo,
+{315.9 317.4 319.9 321.4 323.2}: next,
+325.9: var 0,
+{327.7 330.4 334.4 338.9 340.4 342.2 343.9 362.9 371.4 394.2 396.9 397.7}: next,
+406.4: jump back 13,
+{409.4 410.7 411.4}: next,
+426.4: var 0,
+{428.4 434.9}: next,
+443.4: switch next,
+446.2: start w,
+{448.7 456.2 457.9 462.2 506.4 511.2 529.4 548.7 588.4 593.7
+597.2 604.7 658.9 665.9 671.7 679 745.7 751.7 760.2 765.7
+811.7 820.9 839.9 845.4 875.9 883.2 888.9 893.9 922.4 925.2
+925.9 934.2 950.2 955.7 960.4 971.4 981.7 984.2 997.4 1000.4
+1006.4 1016.4 1024.4 1027.7 1032.4 1035.4 1039.4 1041.2 1049.2 1054.4
+1059.2 1060.9 1065.5 1067.7 1076.2 1079.2 1081.7 1084.4 1085.7 1092.2
+1095.4 1098.2 1100.7 1106.2 1109.7 1113.9 1117.4 1119.7 1121.2 1122.9
+1123.9 1124.4 1127.2 1130.7 1136.2 1138.9 1141.9 1144.2}: next,
+{1146.4 1148.9 1149.9 1151.7 1152.9 1154.2 1155.4 1156.9}: next,
+1168.9: comment [Not including the postgame annalysis here, but the variations are still in the pgn for you to check out.],
+15\90: end

@@ -1,0 +1,51 @@
+url: https://youtu.be/f5V0W6btKdY
+name: the_game
+type: game
+value: 1. e4 c5 2. d3 (2. Nf3)Nc6 3. Nc3 g6 4. Nf3 (4. g3)Bg7 5. Bd2 d6 6. h3 Nf6 7. Qe2 O-O 8. g4 (8. O-O-O b5 (8... a5 9. a4 (9. g4 a4 10. a3)b5 10. Nxb5) 9. g4 (9. Nxb5 Rb8 10. Nc3 (10. a4 a6)Qb6 11. b3 Qb4 (11... Qa6))b4 8. Nb1 Qa5 9. a3 bxa3 10. Bxa5 a2)Nxg4 (8... Rb8) (8... d5)
+9. hxg4 Bxg4 10. Bh3 (10. Qe3 Nd4) (10. Bg2)Nd4 11. Qd1 (11. Bg2) (11. Nxd4)Bxf3 12. Qc1 Bxh1 13. Bf4 f5 14. Qd2 (14. exf5 Nxf5 15. Qd2 Bf3)Nf3+
+--
+name: example1
+type: game
+start_position: rnb1k2r/1pq1ppbp/p2p1np1/8/3NPP2/2N1BQ1P/PPP3P1/R3KB1R w KQkq - 0 1
+value: 1... b5 2. e5 Bb7 3. exf6 Bxf3 4. fxg7 Rg8 5. Nxf3 Nd7 6. O-O-O e6 7. Kb1 f6
+timestamps
+24.4: start b,
+{25.7 28.0 29.2 52.4 54.2 100.4 105.9 111.4 114.7 131.7
+135.7 142.4 146.2 170.4 177.7 270.2 285.7 285.9 293.4 321.4
+367.9 473.9 483.2 483.7 495.9 533.4 560.7 578.2}: next,
+591.9: jump start,
+{591.9 592.9 594.2 594.9 596.4 598.7}: next,
+607.2: var 0,
+626.4: undo,
+{629.9 631.2 632.2 643.2 644.7 666.2 668.4 672.2}: next,
+673.9: var 0,
+709.2: next,
+715.4: var 0,
+717.4: next,
+721.7: var 0,
+724.7: next,
+725.9: jump back 2,
+{728.4 731.9 736.7 783.7}: next,
+799.4: jump back 7,
+802.7: var 0,
+{836.4 843.4 844.2}: next,
+854.4: jump back 3,
+859.4: var 0,
+{861.2 861.7}: next,
+947.4: jump back 4,
+{957.4 958.7 960.4 961.2 962.7 968.7 988.9 993.7 996.9}: next,
+1018.7: jump back 10,
+1021.2: jump forward 4 0.5,
+1051.4: var 0,
+1053.7: next,
+1059.2: jump back 2,
+1061.7: var 1,
+1204.2: highlight d2,
+1235.9: switch next,
+{1432.7 1444.2 1459.9 1496.7 1499.2 1501.9 1506.2 1506.7 1532.9 1534.4 1535.9 1537.9 1538.4}: next,
+1590.9: switch the_game,
+1591.7: jump forward 21,
+{1603.2 1604.2 1605.2 1606.7 1627.4}: next,
+1630.4: var 0,
+{1644.7 1656.7 1661.2}: next,
+1675: end

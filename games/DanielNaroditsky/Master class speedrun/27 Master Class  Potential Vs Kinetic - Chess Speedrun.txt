@@ -1,0 +1,86 @@
+url: https://youtu.be/dowe5Oy7u_Y
+name: the_game
+type: game
+value: 1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 c6 6. Nf3 Bb4+ 7. Nbd2 (7. Kf1) (7. Bc3)f6 (7... Nf6 8. Bxf7+ (8. Qb3 Bxd2+)Kxf7 9. Qb3+ Nd5) (7... d5 8. exd5 cxd5 9. Bb5+ (9. Qa4+ Nc6) (9. Bxg7 dxc4 10. Bxh8 c3) Kf8 10. O-O)
+8. Qb3 Bxd2 9. Nxd2 Nh6 10. O-O Qe7 11. e5 f5 (11... fxe5 12. Bxe5 Qxe5 13. Rfe1) 12. Ba3 c5 13. Bd5 Nc6 14. Nc4 Kd8 15. Nd6 b6 (15... Qxe5 16. Bxc5) 16. Rfd1 Kc7 17. Rac1 (17. Nb5+)Qxe5 18. Nb5+ Kb8 (18... Kd8 19. Bxc6) 19. Bxc5 bxc5 20. Rxc5
+(20. Nd6+ Kc7) (20. Nd4+ Kc7)Bb7 21. Nd4 (21. Nd6) (21. Bxc6 Qxc5 22. Qg3+ d6 23. Rxd6 (23. Qxd6+)Qc1+ (23... Kc8 24. Rd8+ Kxd8 25. Qc7#) 24. Rd1+ f4 25. Qd3 (25. Qf3 Bxc6) (25. Rxc1)Qxc6 (25... Bxc6) 26. Qd8+ Rxd8 27. Rxd8+ Bc8)
+Re8 (21... Rf8 22. Bxc6 Qxc5 23. Qxb7#) (21... Ng4 22. Bxc6) 22. h3 Kc7 23. Bxc6 dxc6 24. Rxe5 Rxe5 25. Ne6+ Rxe6
+26. Qxe6 Bc8 27. Qd6+ Kb6 28. Rb1+ Ka5 29. Qa3#
+--
+name: example1
+type: game
+start_position: 1k1r3r/1p1n1pb1/p2qb1p1/P1p1p2p/4P3/2NPB1PP/1PP3BK/R3QR2 w - - 0 1
+value: 1. Nd5
+--
+name: example2
+type: game
+start_position: k1r2b2/1pr2p2/p5p1/Pq2p2p/2RpP3/1P1P2PP/2PQ2BK/5R2 w - - 0 1
+value: 1. Rxf7 Qxc4 2. bxc4 Rxf7 3. Qg5 Rf2 4. Qxe5 Rxc2 5. Qxd4 Bb4 6. e5 {The g2 bishop suddenly sees the full diagonal!}
+timestamps
+6.2: start w,
+{12.7 14.4 21.9 24.7 28.4 30.2 38.0 39.8 44.0 45.9
+78.9 90.7 142.9 183.0 216.6 226.7 267.0 294.8 297.1 306.1
+349.7 365.4 400.9 420.2 466.7 491.8 497.5 581.5 619.7 645.0
+691.1 724.1 735.8 746.4 757.7 771.4 789.7 818.3 820.1 828.6
+904.4 928.8 933.0 980.7 986.5 1001.0 1003.7 1007.2 1029.5 1040.2
+1041.2 1071.0 1072.3 1083.3 1085.1 1100 1103.7}: next,
+1159.2: jump start,
+1160.0: jump forward 10 0.7,
+{1178.3 1180.1 1183.8}: next,
+1187.3: var 1,
+{1189.2 1190.4}: next,
+1208.6: var 0,
+1212.2: next,
+1216.8: jump back 2,
+1227.9: var 1,
+{1235.0 1237.5 1245.3}: next,
+1250.5: jump back 4,
+{1256.1 1258.1}: next,
+1269.7: jump back 6,
+1275.8: var 0,
+1326.2: undo,
+1330.2: var 1,
+1339.7: undo,
+1340.9: next,
+1352.8: var 0,
+1377.7: var 0,
+{1382.4}: next,
+1384.2: jump back 2,
+{1391.7 1392.9 1393.7}: next,
+1398.2: jump back 4 0.3,
+1401.5: next,
+{1432.8 1433.3 1434.3 1435.3 1435.8 1436.3 1437.3 1443.1 1445.8 1446.6 1450.6 1451.4 1451.9 1452.9 1453.7 1462.9 1463.7 1464.5 1465.3 1466.0 1473.3}: next,
+1483.2: var 0,
+1486.5: next,
+1517.8: jump back 2,
+{1522.3 1532.8 1547.1}: next,
+1564.1: var 0,
+1567.9: next,
+1623.9: jump back 2,
+1626.2: var 1,
+1627.2: next,
+1632.2: jump back 2,
+1821.9: switch next,
+1829.3: next,
+1839.0: highlight g2,
+1905.0: switch next,
+{1923.5 1933.5 1935.8 1936.5 1937.8 1943.5 1944.8 1946.8 1948.8 1952.5 1962.8}: next 0,
+1991.1: switch the_game,
+1993.2: jump forward 38,
+{2020.0 2028.5 2031.1}: next,
+2042.3: var 0,
+{2043.8 2047.8 2049.6}: next,
+2052.7: jump back 4,
+{2055.5 2058.0 2073.5 2075.5}: next,
+2082.3: jump back 5 0.2,
+2088.1: var 1,
+{2090.4 2106.7 2112.7 2120.1 2127.2 2130.7}: next,
+2134.7: jump back 2,
+2137.2: var 0,
+{2152.7 2153.7 2154.7}: next,
+2156.8: jump back 4,
+{2167.2 2167.9 2169.2 2183.9 2186.0}: next,
+2200.7: jump back 2,
+2205.7: var 0,
+2212.8: next,
+2300: end
