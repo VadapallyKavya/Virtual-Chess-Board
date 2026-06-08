@@ -1,0 +1,46 @@
+url: https://youtu.be/D0AlZuN14Fw
+1. d4 d5 2. Nc3 (2. c3) Nf6 3. Bf4 e6 4. Nb5 Na6 (4... Bd6 5. Nxd6+ cxd6 6. e3) (4... c6 5. Nc7+) 5. e3 Be7 6. Nf3 O-O 7. a3 Nh5 (7... c6 8. Nc3) 8. Be5 f6 9. Bg3 c5 (9... Nxg3 10. hxg3) (9... c6 10. Nc3 ) 10. c4 (10. Nc3)g6 (10... dxc4 11. Bxc4) (10... cxd4 11. exd4)
+11. Bd3 cxd4 12. exd4 Nb8 (12... Bd7) 13. O-O (13. Nc7 Nxg3 14. hxg3 Qxc7)Nc6 14. Re1 Nxg3 15. hxg3 Rf7 16. Nc3 Bf8 (16... dxc4 17. Bxc4) 17. b4 (17. Qb3 Na5 18. Qa2 dxc4 19. Bxc4 Nxc4 20. Qxc4)Ne7 (17... dxc4)18. Qb3 Kg7 19. Re2 Bd7 20. Rae1 Rc8
+21. c5 (21. cxd5 exd5 22. Nxd5 Nxd5 23. Qxd5 Bc6) g5 22. Rxe6 Bxe6 23. Rxe6 a6 24. Bb1 Rc6 25. Rxe7 (25. Rxc6 bxc6) (25. Re1)Qxe7 26. Nxd5 Qe6 27. Qd3 (27. Ne3)Kh8 (27... Qxd5 28. Qxh7#) (27... f5 28. Ne3) 28. Ne3 Rc8 29. d5 Qd7 30. d6 Bxd6
+31. cxd6 Rc1+ 32. Kh2 Rxb1 33. Qxb1 Qxd6 34. Nf5 Qe6 35. Qd3 h5 36. N3d4 Qe5 37. Nh6 Rf8 38. Ndf5 Qe6 39. Qf3 Qe8
+timestamps
+26.4: start w,
+{73.2 75.2 77.4}: next,
+107.2: undo,
+119.9: var 0,
+124.9: undo,
+{131.9 133.2 135.0 140.2 145.5 156.0}: next,
+180.3: undo,
+184.0: var 0,
+{186.5 188.5}: next,
+192.3: jump back 3,
+{193.0 194.0 195.3 196.0 197.1 198.1 269.6 306.6 309.6 320.9}: next,
+326.9: var 0,
+{327.7}: next,
+336.4: jump back 2,
+{340.2 392.0 450.0 461.2 462.0 462.7 465.7}: next,
+480.1: var 0,
+{492.1 493.4 495.9}: next,
+511.1: jump back 4,
+{515.1 516.1 525.1 530.9 534.4}: next,
+{564.7 623.7 687.5}: next,
+718.5: var 0,
+{720.5 725.7 727.7 729.2 730.7 731.5}: next,
+754.1: jump back 7 0.2,
+{762.1 774.6 778.6 780.9 802.7 810.4 811.2 811.9}: next,
+847.7: var 0,
+{853.7 854.7 856.5 857.7 861.2}: next,
+894.7: jump back 6,
+{920.7 931.3 962.5 968.5 971.3 1032.4 1036.9 1048.6}: next,
+1068.9: var 1,
+1076.4: undo,
+{1092.9 1094.7 1160.8 1210.1 1224.6}: next,
+1229.3: var 0,
+1230.3: next,
+1231.8: jump back 2,
+{1233.1 1234.6 1248.8 1249.8 1250.4 1251.6 1262.1 1266.1 1268.1 1269.4 1270.9}: next,
+1281.4: jump back 11,
+1285.6: var 1,
+1289.1: next,
+1292.9: comment [the rest of the game is in the pgn but he goes too fast for me to syncranise it, pause and check it out!]
+1396: end
