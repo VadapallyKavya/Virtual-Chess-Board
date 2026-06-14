@@ -1,0 +1,99 @@
+url: https://youtu.be/Gti01VN0zXA
+name: the_game
+type: game
+value: 1. e4 e5 2. Ba6 Nxa6 3. Nf3 d6 4. d4 Bg4 (4... exd4 5. Qxd4) 5. c3 (5. a3 Bxf3 6. Qxf3 exd4)Be7 6. Be3 Nf6 7. Nbd2 O-O 8. h3 Bxf3 (8... Bh5 9. g4 Bg6 10. Qc2 d5) (8... Be6) 9. Qxf3 (9. gxf3 g6 10. Rg1 Nh5)c5 (9... c6) 10. dxe5 (10. d5 b5)dxe5 11. O-O-O Qa5 12. Kb1 (12. a3 b5) (12. Kc2 Qxa2 13. Ra1 Qe6)Rad8 (12... b5 13. g4 c4 (13... b4 14. c4 (14. Nc4 Qb5 (14... Qc7))) 14. g5 Ne8 (14... Nd7) 15. h4 Nd6 16. h5 b4 17. g6 bxc3 18. gxh7+ Kh8) 13. g4 b5 14. g5 Nd7 15. h4 g6 (15... c4 16. h5 b4 (16... Nb6 17. g6 b4) 17. Nxc4 Qb5) (15... Ndb8 16. h5) 16. h5 Nb6 (16... Rfe8 17. hxg6 (17. Qh3 Nf8 18. hxg6 fxg6)fxg6 18. Rxh7 Kxh7 19. Qf7+ (19. Rh1+ Kg7 20. Qh3 Rh8) Kh8 20. Rh1#) (16... f6 17. hxg6 hxg6 18. Qh3) 17. Qh3 Nc4 18. hxg6 Nxd2+ 19. Rxd2 h5 20. Qxh5 f6
+--
+name: example1
+type: game
+start_position: rnbq1rk1/1p3pbp/p2p1np1/3Pp3/4P3/2N1BP2/PP1Q2PP/R3KBNR w KQ - 0 1
+value: 1. g4 h5 2. gxh5 (2. h3) (2. g5 Ne8)Nxh5
+--
+name: example2
+type: game
+start_position: r1b2rk1/ppn1q1b1/3p3p/2pP1pp1/4P3/P1NB2P1/1PQN1PP1/2KR3R w - - 0 1
+value: 1... b5 2. Nxb5 (2. Bxb5 Bxc3)Nxb5 3. Bxb5 Rb8 4. a4 a6
+timestamps
+0.4: start w,
+{0.7 3.4 4.7 33.6 66.1 101.9 135.9 160.6 215.4 226.9
+262.6 284.1 286.4 293.4 368.4 376.9 378.4 423.8 477.4 485.1
+519.1 533.9 545.4 580.6 597.6 650.4 660.4 670.9 672.1 684.9
+702.4 708.1 755.1}: next,
+{983.1 1004.9 1032.4 1036.1 1038.4 1039.9 1050.6}: next,
+1073.1: jump start,
+{1075.4 1075.9 1076.6 1078.1 1078.9 1081.4 1088.6}: next,
+1093.6: var 0,
+1109.6: next,
+1126.9: jump back 2,
+1128.6: next,
+{1209.4 1210.9 1212.4 1214.4 1215.6 1216.6 1218.1}: next,
+1223.9: var 0,
+{1227.9 1232.4 1239.9 1242.4}: next,
+1252.4: jump back 5 0.3,
+1274.0: next,
+1278.4: var 0,
+{1319.4 1327.1 1330.1}: next,
+1396.1: jump back 4 0.6,
+1400.6: next,
+1403.1: next,
+1556.1: undo,
+1559.9: var 0,
+1567.9: undo,
+{1568.9 1570.1 1571.4 1572.9}: next,
+1582.6: jump back 3 0.6,
+1586.4: var 0,
+1625.1: highlight d6,
+1636.6: next,
+1639.9: jump back 2,
+{1640.9 1641.9 1649.9 1688.6}: next,
+1696.1: var 0,
+1704.1: next,
+1710.9: jump back 2,
+1714.6: var 1,
+{1717.9 1718.9 1720.1}: next,
+1723.4: jump back 4 0.4,
+1726.9: next,
+1733.6: var 0,
+1735.1: next,
+1741.6: var 0,
+1754.9: var 0,
+1758.4: next,
+1761.6: jump back 2,
+1762.6: next,
+1772.4: jump back 2,
+{1785.1 1793.1 1797.9 1807.6 1809.1 1810.1 1811.6 1818.6 1819.9 1820.9 1823.6}: next,
+1832.6: jump back 13 0.3,
+1839.9: next,
+1942.6: switch next,
+1944.6: start b,
+{1950.6 1968.4}: next,
+{1973.1 1974.9}: next,
+1998.1: jump back 2,
+2000.9: var 0,
+2035.1: undo,
+2040.1: var 1,
+2041.4: next,
+2050.4: switch previous,
+2056.4: jump forward 29,
+2065.1: var 0,
+{2067.1 2068.4 2071.1 2084.1}: next,
+2088.4: jump back 3,
+2092.6: var 0,
+{2093.6 2094.9}: next,
+2097.4: jump back 5,
+{2104.4 2105.1}: next,
+2133.1: var 0,
+2134.4: var 0,
+{2135.1}: next,
+2137.4: jump back 2,
+{2150.1 2151.4 2156.6 2159.4 2160.9 2162.4 2163.1}: next,
+2211.1: jump back 8,
+2216.4: var 0,
+{2220.1 2222.6 2239.4 2241.9}: next,
+2244.6: var 0,
+{2247.4 2249.4 2251.4}: next,
+2252.6: jump back 4,
+{2254.9 2255.9 2257.4}: next,
+2275.6: comment [Most of the final section of this video goes very fast, I was unable to add all the moves properly. Please feel free to pause and analyse with stockfish.],
+2507.9: switch example2,
+{2561.1 2579.9 2582.4 2583.6 2591.9 2595.6 2599.4}: next,
+2700: end

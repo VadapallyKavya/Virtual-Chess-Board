@@ -1,0 +1,61 @@
+url: https://youtu.be/mIzJ3LYZvKw
+name: the_game
+type: game
+value: 1. e4 c5 2. Bc4 Nc6 3. Nf3 e6 4. a3 Nf6 5. d3 d5 6. exd5 exd5 7. Bb5 Qa5+ 8. Nc3 d4 9. Bxc6 bxc6 10. b4 cxb4
+11. Ne4 (11. Ne2) Nxe4 12. dxe4 bxa3+ (12... Ba6 13. Qxd4 bxa3+ 14. Bd2 Qb5 15. Qe3) 13. Qd2 (13. Bd2 Qa4 (13... Bb4 14. Nxd4) 14. O-O Bc5 15. Re1 (15. c3 Qxd1 16. Rfxd1 dxc3 17. Bxc3 O-O)O-O 16. h3 a2)Bb4 14. Rxa3 Bxd2+ 15. Nxd2 Qc5 (15... Qb5) 16. O-O Qxc2 17. Nf3 c5 18. Bf4 O-O 19. Re1 Bb7 20. Ne5 Re8
+21. Rg3 Bxe4 22. h3 Bg6 23. Rc1 Qxc1+ 24. Bxc1 Rxe5 25. Bf4 Re1+ 26. Kh2 d3 27. Re3 Rxe3 28. Bxe3 c4 29. Kg1 c3 30. Kf1 d2 31. Ke2 Rd8 32. Kd1 c2+
+--
+name: example1
+type: game
+start_position: 6k1/5pp1/7p/8/4P3/3B4/R7/4K3 b - - 0 1
+value: 1... g6 (1... h6 2. e5)
+--
+name: example2
+type: game
+start_position: 1R6/pp2kppp/4p3/4P3/1P2P3/r5PP/5K2/8 b - - 0 1
+value: 1... g5 (1... b6 2. Rb7+ Ke8 3. Rb8+ Kd7 4. Rb7+ Kc6 5. Rxf7) (1... Rd3 2. Rxb7+ Rd7 3. Rb5) (1... g6 2. Rxb7+ Kf8 3. Rb8+ Kg7)  2. Rxb7+ (2. h4 gxh4 (2... g4))Kf8 3. Rb8+ Kg7 4. Ra8 h5
+timestamps
+9.9: start b,
+{10.2 16.8 19.6 34.6 49.6 52.6 57.7 62.2 66.9
+69.9 72.7 73.7 79.2 106.7 146.7 147.2 150.7 152.0 154.7
+164.4 173.7 191.4 196.2 251.4 253.7 265.7 286.0 295.2 299.2
+336.7 348.2 349.2 363.4 389.9 407.4 418.6 427.9 450.1 458.6
+468.6 473.9 492.6 504.6 523.4 536.9 555.2 559.9 560.9 567.7
+570.0 572.8 576.0 584.7 586.0 588.2 590.0 591.7 592.5 593.1
+593.9 594.6 595.7 596.7 600.2}: next,
+607.0: jump start,
+609.6: jump forward 14 1,
+{632.8 633.8 634.8 635.8 637.1}: next,
+638.7: next,
+645.0: var 0,
+649.6: undo,
+649.8: jump forward 3 0.7,
+653.6: var 0,
+{657.4 663.3 665.3 667.5 673.0}: next,
+675.9: jump back 6 0.3,
+679.4: next,
+684.4: var 0,
+716.1: var 0,
+719.1: next,
+722.4: jump back 2,
+{746.4 759.8 765.1 767.1 768.1 771.1 773.9}: next,
+784.4: jump back 4 1,
+821.1: var 0,
+{822.4 823.4 824.9 826.4 828.4}: next,
+929.5: switch next,
+958.2: var 0,
+965.2: next,
+983.2: jump start,
+987.5: next,
+1129.4: switch next,
+1193.5: var 0,
+{1213.7 1214.5 1215.0 1216.5 1217.4 1220.6 1223.6}: next,
+1231.4: jump start,
+1240.9: var 1,
+{1241.9 1243.4 1245.2}: next,
+1262.5: jump start,
+1283.7: var 2,
+{1285.2 1286.2 1287.2 1288.9}: next,
+1290.9: jump start,
+{1296.0 1328.3 1329.3 1330.3 1330.8 1332.0 1332.8}: next,
+1430: end
