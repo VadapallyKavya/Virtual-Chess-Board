@@ -1,0 +1,244 @@
+url: https://youtu.be/n3FufrVltsc
+name: direct_opposition_example
+type: game
+start_position: 8/8/4k3/8/4K3/8/8/8 b - - 0 1
+value: 1... Kf6 2. Kd5
+--
+name: long_distance_opposition_example
+type: game
+start_position: 8/4k3/8/8/8/4K3/8/8 b - - 0 1
+value: 1... Ke6 2. Ke4
+--
+name: diagonal_opposition_example
+type: game
+start_position: 8/8/8/4k3/8/2K5/8/8 b - - 0 1
+value: 1... Kd5 2. Kd3
+--
+name: pawn_assisted_opposition_example
+type: game
+start_position: 8/8/8/4k3/4P3/4K3/8/8 b - - 0 1
+value: 1... Ke6 2. Kd4 Kd6 3. e5+ Ke6 4. Ke4
+--
+name: zugzwang_example
+type: game
+start_position: 8/8/4k3/2p4p/2P4P/4K3/8/8 w - - 0 1
+value: 1. Ke4 Kf6 2. Kd5
+--
+name: sholdering_example
+type: game
+start_position: 8/6k1/6p1/6P1/4K3/8/8/8 w - - 0 1
+value: 1. Ke5 Kf7 2. Kd6 Kg7 3. Ke7 Kh7 4. Kf7 Kh8 5. Kxg6 Kg8 6. Kh6 Kh8 7. g6 Kg8 8. g7 Kf7 9. Kh7
+--
+name: waiting_move_example
+type: game
+start_position: 8/p7/4k3/2p4p/2P4P/4K3/P7/8 w - - 0 1
+value: 1. Ke4 a6 (1... a5 2. a4)2. a3 a5 3. a4
+--
+name: triangulation_example
+type: game
+start_position: 8/2k5/p1P5/P1K5/8/8/8/8 w - - 0 1
+value: 1. Kd5 Kc8 2. Kc4 (2. Kd6 Kd8 3. c7+ Kc8 4. Kc6)Kd8 3. Kd4 Kc8 4. Kd5 Kd8 5. Kd6 Kc8 6. c7 Kb7 7. Kd7 Ka7 8. Kd8
+--
+name: charting_a_course_example
+type: game
+start_position: 2k5/8/8/7p/5p2/5P2/6P1/6K1 w - - 0 1
+value: 1. Kh2 Kd7 2. Kh3 Ke6 3. Kh4 Kf5 4. Kxh5 Kf6 5. Kh6 Ke5 6. Kg5
+--
+name: example1
+type: game
+start_position: 8/8/1k6/8/8/1K4P1/8/8 b - - 0 1
+value: 1. Kb4 (1. g4 Kc5) (1. Kc4 Kc6 2. Kd4 Kd6 3. Ke4 Ke6 4. Kf4 (4. g4 Kf6 5. Kf4)Kf6) Kc6 2. Kc4 Kd6 3. Kd4 Ke6 4. Ke4 Kf6 5. Kf4 Kg6 6. Kg4 Kf6 7. Kh5 Kg7 8. Kg5 Kf7 9. Kh6 Kf6 10. g4 Kf7 11. g5 Kg8 12. Kg6 Kh8 13. Kf7 Kh7 14. g6+
+--
+name: example2
+type: game
+start_position: 8/8/8/4p1p1/8/5P2/6K1/3k4 w - - 0 1
+value: 1. Kh1 (1. Kf1 Kd2 2. Kf2 Kd3 3. Kf1 Ke3 4. Kg2 Ke2) Ke2 (1... g4 2. Kg2 (2. fxg4) gxf3 3. Kxf3 Kd2 4. Ke4)2. Kg2 Kd2 3. Kh2 Ke1 4. Kg1 Kd2 5. Kh2 (5. Kf2 Kd3)
+--
+name: example3
+type: game
+start_position: 8/p5p1/5k1p/1p1p1p2/1P1P4/4PPP1/4K2P/8 w - - 0 1
+value: 1. Kd3 Ke6 2. e4 dxe4 (2... a6) 3. fxe4 fxe4 4. Kxe4 Kd6 5. d5 Ke7 6. Ke5 Kd7 7. d6 g6 8. Kd5 h5 9. h4 a6 10. Ke5 Kd8 11. Ke6 Ke8 12. d7+ Kd8 13. Kd6 g5 (13... a5 bxa5) 14. hxg5 h4 15. g6 h3 16. g7 h2 17. g8=Q
+--
+name: example4
+type: game
+start_position: 8/8/5k2/4pp1p/5P2/4K1PP/8/8 b - - 0 1
+value: 1... exf4 (1... e4 2. g4 hxg4 3. hxg4 fxg4 4. Kxe4 g3) 2. gxf4 (2. Kxf4 h4 3. gxh4 (3. g4 hxg4 4. hxg4)) Ke6 (2... h4 3. Kd4 Ke6 4. Kc5)3. Kd4 Kd6 4. h4 Kd7
+--
+name: example5
+type: game
+start_position: 8/2k5/2p2p2/2K1p1p1/4P2p/5P1P/1P4P1/8 w - - 0 1
+value: 1. b3 (1. b4 Kd7 2. Kb6 Kd6 3. Kb7 Kd7 4. Ka6 Ke6 (4... Kc7 5. Ka7))Kd7 (1... Kb7 2. Kd6) 2. Kb6 Kd6 3. b4 (3. Kb7 Kc5)Kd7 4. Kb7 Kd6 5. Kc8 c5 6. b5 c4 7. b6 c3 8. b7 c2 9. b8=Q+
+--
+name: example6
+type: game
+start_position: 8/pk4p1/P4p1p/1K3P2/6PP/8/8/8 b - - 0 1
+value: 1... Kc7 (1... Kb8 2. Kc6 Kc8 3. h5 Kd8 4. Kb7 Kd7 5. Kxa7 Kc7 6. Ka8 Kc8 7. a7 Kc7)2. Kc5 Kd7 3. Kd5 Ke7 4. Kc6 Kd8 5. Kb7 Kd7 6. Kxa7 Kc7 7. h5 (7. Ka8 Kc8) Kc8 (7... Kc6 8. Kb8) 8. Kb6
+--
+name: example7
+type: game
+start_position: 8/p7/8/2p1k3/2P2pp1/3K1P2/P5P1/8 b - - 0 1
+value: 1... Kf5 2. fxg4+ Kxg4 3. Ke4 Kg3 4. Kf5 (4. Kd5) a6 5. a3 (5. a4)a5 6. a4 f3 7. gxf3 Kxf3 8. Ke5
+--
+name: example8
+type: game
+start_position: 8/pk6/3p2p1/PP1P1p1p/2K2P1P/8/8/8 w - - 0 1
+value: 1. a6+ Kc7 2. Kc3 (2. Kb4 Kb6) Kb6 (2... Kb8 3. b6)3. Kb4 Kc7 4. Ka5 g5 5. hxg5 h4 6. g6 h3 7. g7 h2 8. g8=Q h1=Q
+--
+name: example9
+type: game
+start_position: 8/5p2/5kp1/7p/3pKP2/6P1/7P/8 b - - 0 1
+value: 1... d3 2. Kxd3 Kf5 3. Kd4 (3. Ke3 Kg4 4. Kf2 Kh3 5. Kg1 f6 6. Kh1 h4 7. gxh4 Kxh4 8. f5 g5)Kg4 4. Ke5 Kh3 5. Kf6 Kxh2 6. Kxf7 Kxg3 7. Kxg6 h4 8. f5 h3 9. f6 h2 10. f7 h1=Q 10. f8=Q
+--
+name: example10
+type: game
+start_position: 8/k5pp/p7/K4p2/5P2/7P/P5P1/8 w - - 0 1
+value: 1. Ka4 (1. Kb4 Kb6 2. Kc4 Kc6 3. Kd4 Kd6 4. h4 g6 5. g3 h6 (5... h5 6. a3 a5 7. a4) 6. a3 a5 7. a4 (7. h5 gxh5 8. a4 h4 9. gxh4 h5)h5) Kb7 (1... Kb6 2. Kb4 Kc6 3. Kc4 Kd6 4. Kd4 g6 5. h4 h6  6. g3  h5 7. a3 a5 8. a4)2. Kb3 Kc7 3. Kc3 Kd7 4. Kb4 Kc6 (4... Kd6 5. Ka5)5. Kc4 Kd6 6. Kd4 a5 7. a3 h6 (7... a4 8. Kc4) 8. h4 h5 9. g3 g6 10. a4 Kc6 11. Kc4 Kb6 (11... Kd6 12. Kb5) 12. Kd5
+timestamps
+{298.7 300.9}: next,
+346.3: switch next,
+{367.0 370.8}: next,
+385.5: switch next,
+{412.2 414.2}: next,
+439.5: switch next,
+{461.2 462.2 466.1 473.6 474.6 475.6}: next,
+578.4: switch next,
+{583.9 604.9 605.9}: next,
+637.2: switch next,
+{672.2 682.4 689.4 702.4 706.1 710.4 711.4 715.2 716.7 720.0}: next,
+{726.6 727.8 729.1 729.8 730.6 732.6 734.1}: next,
+769.7: switch next,
+816.4: next,
+879.3: var 0,
+884.8: undo,
+{887.0 914.1 916.3 919.3}: next,
+952.3: switch next,
+{1026.1 1029.3}: next,
+1033.7: var 0,
+{1037.7 1039.2 1040.7 1041.7}: next,
+1045.2: jump back 5,
+{1049.2 1057.5 1083.7 1088.5 1091.0 1100.0 1101.7 1108.0 1109.0 1110.2 1111.2 1112.4 1116.7}: next,
+1154.5: switch next,
+{1231.4 1233.9 1234.9 1236.2 1237.7 1240.9 1241.9 1245.6 1247.4 1248.1 1249.4}: next,
+1347.5: switch next,
+1370.1: var 0,
+1372.1: next,
+1377.4: jump start,
+1395.9: var 1,
+{1399.6 1403.4 1411.9 1414.9 1417.6 1419.1 1420.4}: next,
+1429.1: jump back 2,
+1432.4: var 0,
+{1435.2 1437.2}: next,
+1465.7: jump start,
+{1474.2 1477.7 1481.7 1483.4 1484.9 1485.9 1486.9 1489.2 1490.9 1491.7 1493.2 1498.5 1500.5 1505.8 1507.8 1509.5 1511.8 1512.9 1514.2 1515.2 1516.7 1517.9 1519.9 1521.2 1522.4 1524.1 1525.6}: next,
+1548.6: switch next,
+1564.9: start w,
+1623.4: comment [f2, g2 and h2.],
+1627.5: var 0,
+{1636.0 1637.0 1638.2 1647.2 1649.5 1651.2 1654.8}: next,
+1674.5: jump start,
+{1700.3 1717.5 1719.0 1740.0 1741.2 1742.5}: next,
+{1744.7 1747.5 1749.2}: next,
+1751.5: undo,
+1754.0: var 0,
+1756.2: next,
+1780.9: jump start,
+1782.6: next,
+1783.9: var 0,
+1788.6: var 0,
+1791.8: undo,
+{1795.6 1800.8 1801.8 1805.0 1806.5}: next,
+1837.3: switch next,
+{1903.0 1905.2 1908.6}: next,
+1922.1: var 0,
+1928.5: undo,
+{1932.2 1933.0 1934.0 1935.2 1935.5}: next,
+{1959.3 2000.4 2002.9 2004.4 2005.6 2016.4 2018.9 2019.9 2020.9 2025.6 2026.9 2028.4 2030.9 2032.4 2041.1 2041.9 2043.1 2052.3 2053.3 2057.1 2062.1 2063.3 2064.3 2065.6 2066.8}: next,
+2098.4: switch next,
+2124.4: start b,
+2133.4: var 0,
+{2136.7 2143.2 2143.9 2144.9 2146.7 2148.9}: next,
+2157.9: jump start,
+2162.2: next,
+2169.2: var 0,
+2171.9: next,
+2184.4: var 0,
+2187.6: jump back 3 0.5,
+2202.4: next,
+{2228.6 2231.1 2232.4 2237.1 2244.6}: next,
+2254.0: jump back 5 0.4,
+2261.7: var 0,
+{2263.1 2264.4 2266.1}: next,
+2326.4: switch next,
+2330.1: start w,
+2408.6: next,
+2424.6: var 0,
+2426.1: next,
+2430.6: jump back 2,
+{2433.6 2436.1 2437.6 2464.3 2479.6 2482.1 2483.8 2488.3 2497.5 2505.0 2506.3 2507.0 2508.0 2508.5 2509.5 2510.3}: next,
+2552.7: jump start,
+2556.2: var 0,
+{2557.5 2558.2 2559.2 2564.0 2568.1 2570.9}: next,
+2575.1: var 0,
+2577.1: next,
+2579.9: jump back 2,
+2581.4: next,
+2599.3: switch next,
+2615.0: start b,
+{2663.8 2683.5 2684.8 2685.8 2692.2 2696.2 2716.8 2718.8 2719.3 2720.8 2721.3}: next,
+2724.9: var 0,
+2726.2: next,
+2728.2: jump back 2,
+{2738.6 2742.9 2743.9}: next,
+2758.9: jump start,
+2781.4: var 0,
+{2797.1 2798.9 2823.4 2824.9 2826.4 2827.9 2828.9 2830.4 2833.3 2834.8 2836.3 2837.8}: next,
+2901.5: switch next,
+2906.6: start w,
+{2918.7 2942.8 2944.3 2946.3 2951.3}: next,
+2954.0: var 0,
+2956.7: undo,
+{2965.1 2977.8 2983.8 2993.6 2994.6 2996.3 2998.1 2999.1 3000.2}: next,
+3003.6: switch next,
+{3048.1 3060.2}: next,
+3064.1: var 0,
+3065.8: next,
+3071.3: jump back 2,
+{3074.8 3080.3 3081.8 3100.8 3101.8 3106.8 3108.1 3110.2 3110.7 3111.7 3112.9 3113.9 3114.4 3115.7}: next,
+3158.7: switch next,
+3166.7: start w,
+{3190.7 3193.4 3210.3}: next,
+{3248.0 3250.3 3251.0 3252.5 3254.0 3255.8 3257.0 3258.0 3261.3 3265.3 3266.0 3267.0 3268.0 3268.8 3269.8 3270.5 3271.5}: next,
+3280.7: jump start,
+3280.9: jump forward 3,
+3283.2: var 0,
+{3284.3 3285.3 3286.5 3288.5 3291.9 3294.6 3298.1 3300.1 3302.1 3306.6 3319.6}: next,
+3352.4: switch next,
+3399.0: start w,
+3452.7: var 0,
+{3466.3 3470.0 3470.5 3471.0 3471.5 3503.0 3504.5 3507.5}: next,
+3509.4: var 0,
+{3514.8 3516.3 3517.6}: next,
+3519.9: jump back 4,
+{3522.6 3524.4 3525.6 3527.1 3529.1}: next,
+3800: end
+chapters
+intro: 1,
+opposition: 220,
+long_distance_opposition: 347,
+diagonal_opposition: 385,
+pawn_assisted_opposition: 425,
+zugzwang: 499,
+sholdering: 629,
+waiting_moves: 765,
+triangulation: 930,
+charting_a_course: 1151,
+simple_opposition_example: 1347,
+distant_opposition_example: 1542,
+pawn_assisted_opposition_example: 1831,
+never_relax_in_pawn_endgames: 2098,
+advanced_sholdering_example: 2306,
+the_importance_of_waiting_moves: 2592,
+diagonal_opposition_illustration: 2902,
+triangulation_example: 3002,
+charting_a_course_example: 3156,
+putting_it_all_together: 3353

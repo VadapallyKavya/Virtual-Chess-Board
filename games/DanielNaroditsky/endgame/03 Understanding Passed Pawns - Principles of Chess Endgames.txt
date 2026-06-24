@@ -1,0 +1,249 @@
+url: https://youtu.be/W0Lw4ox_n_M
+name: passed_pawn_example1
+type: position
+start_position: 8/8/8/6P1/2P5/p7/8/8 w - - 0 1
+value: 1. g6
+--
+name: passed_pawn_example_2
+type: game
+start_position: 8/8/8/4PP2/4pp2/8/8/8 w - - 0 1
+value: 1. e6
+--
+name: passed_pawn_example3
+type: game
+start_position: 8/5p2/1pPp4/6P1/1P2P2p/P7/8/8 w - - 0 1
+value: 1. c7
+--
+name: trippled_pawn_example
+type: game
+start_position: 8/8/8/8/2P5/2P5/2P5/8 w - - 0 1
+value: 1. c5
+--
+name: king_capture_method_example
+type: game
+start_position: 8/8/8/1p5k/2p1K3/2P5/8/8 w - - 0 1
+value: 1. Kd4 (1. Kd5 b4 2. Kxc4 (2. cxb4 c3)bxc3 3. Kxc3)b4 (1... Kg4 2. Kc5 Kf4 3. Kxb5 Ke4 4. Kxc4)2. cxb4 c3 3. Kxc3
+--
+name: pawn_advance_method_example1
+type: game
+start_position: 8/8/1p5k/8/1P6/P3K3/8/8 w - - 0 1
+value: 1. a4 (1. b5 Kg5 2. a4 Kf5 3. a5 bxa5 4. b6)Kg5 2. a5 bxa5 3. bxa5
+--
+name: pawn_advance_method_example2
+type: game
+start_position: k7/7p/8/8/8/8/6PP/K7 w - - 0 1
+value: 1. g4 (1. h4 h5)Ka7 2. h4 Ka8 3. h5 Ka7 4. g5 Ka8 5. g6
+--
+name: deep_freeze_example
+type: game
+start_position: 8/8/8/1p4p1/8/1P1k4/1K3PPP/8 w - - 0 1
+value: 1. g3 g4 2. Ka3 Kc3 3. Ka2 b4 4. Ka1 Kxb3
+--
+name: 3_on_2_majority
+type: game
+start_position: k7/8/6p1/7p/8/8/5PPP/K7 w - - 0 1
+value: 1. h4 (1. f4 Kb8 2. g3 (2. h3 h4)Ka8 3. h3 Kb8 4. g4 Ka8 5. f5)Kb8 2. f3 Ka8 3. g4 Kb8 4. gxh5 gxh5 5. f4
+--
+name: using_king_to_break_deep_freeze
+type: game
+start_position: 8/8/4k3/p4p1p/P4P2/6P1/4K2P/8 w - - 0 1
+value: 1. h3 Kf6 2. Kf3 Ke6 3. g4 hxg4 4. hxg4 fxg4 5. Kxg4
+--
+name: outside_passed_pawn_example1
+type: game
+start_position: 8/8/5k2/p7/P4PK1/8/8/8 w - - 0 1
+value: 1. Kf3 Kf5 2. Ke3 Kf6 3. Kd4 Kf5 4. Kc4 Kxf4 5. Kb5 Ke5 6. Kxa5 Kd5 6. Kb5
+--
+name: outside_passed_pawn_example2
+type: game
+start_position: 8/8/8/p1pk3p/P7/3K2P1/7P/8 w - - 0 1
+value: 1. h3 Ke5 2. Kc4 Kd6 3. g4 hxg4 4. hxg4 Kc6 5. g5 Kd6 6. g6 Ke6 7. Kxc5 Kf6 8. Kb5 Kxg6 9. Kxa5 Kf5 10. Kb6 Ke6 11. a5
+--
+name: protected_passed_pawn_example
+type: game
+start_position: 8/8/p5p1/1pk2p1p/5P1P/PKPP2P1/8/8 w - - 0 1
+value: 1. d4+ Kd5 2. Kb4 Kc6 3. Ka5 Kb7 4. d5 Ka7 5. d6 Kb7 6. d7 Kc7 7. Kxa6 Kxd7 8. Kxb5
+--
+name: connected_passed_pawns_example
+type: game
+start_position: 8/2k4p/7p/3p3p/3P4/1P4K1/2P5/8 w - - 0 1
+value: 1. c4 dxc4 2. bxc4 Kd6 3. c5+ (3. d5) (3. Kh4)Kd5 4. Kh4 Kxd4 5. c6
+--
+name: gap_tooth_passed_pawns_example
+type: game
+start_position: 8/8/8/1k6/8/8/P1P5/7K w - - 0 1
+value: 1. a3 Ka4 2. c4 Ka5 3. Kg2 Kb6 4. a4 (4. Kf3 Kc5)Kc5 5. a5 Kc6 6. Kf3 Kb7 7. c5
+--
+name: trousers_example
+type: game
+start_position: 3k4/8/8/2p4p/8/1PP3PP/8/7K w - - 0 1
+value: 1. g4 hxg4 2. hxg4 Ke7 3. g5 Kf7 4. b4 cxb4 5. cxb4 Ke6 6. g6 Kf6 7. b5
+--
+name: example1
+type: game
+start_position: 8/5p2/p5k1/4p2p/2p1K3/P4PP1/1P6/8 b - - 0 1
+value: 1... f5+ (1... f6 2. Kd5 Kg5 3. Kxc4 f5 (3... h4 4. gxh4+) 4. b4 f4 5. gxf4+ Kxf4 (5... exf4 6. Kd3) 6. a4 Kxf3 7. b5 axb5+ 8. axb5 e4 9. b6 e3 10. b7 e2 11. b8=Q e1=Q)
+2. Kxe5 Kg5 3. a4 a5 4. Kd4 (4. f4+ Kg4)f4 5. gxf4+ Kxf4
+--
+name: example2
+type: game
+start_position: 6k1/6q1/3ppp1Q/p7/1pP1PP1P/1P6/P6K/8 w - - 0 1
+value: 1. Qxg7+ Kxg7 2. e5 fxe5 3. fxe5 dxe5 4. c5 Kf6 5. h5 Kg5 6. c6
+--
+name: example3
+type: game
+start_position: 8/8/p4kpp/2pP4/1pP3P1/1P6/P5K1/8 b - - 0 1
+value: 1... h5 (1... g5 2. Kf3 Kf7 3. Ke4 Kf6 4. d6 Ke6 5. d7 Kxd7 6. Kd5 (6. Kf5 Kd6 7. Kg6 Ke5 8. Kxh6 Kf4 9. Kh5 a5)a5 7. Kxc5 Kc7 8. Kd5 Kd7 9. c5 Kc7 (9... h5) 10. c6 Kd8 11. Kd6) 2. gxh5 gxh5 3. Kg3 Kg5 4. Kh3 Kf5 5. Kh4 Kg6 6. d6 Kf6 7. Kxh5 Ke6 8. Kg6 Kxd6 9. Kf6 Kd7 10. Ke5 Kc6 11. Ke6 Kb6 12. Kd6 (12. Kd5)Ka5 13. Kxc5 (13. Kd5 Kb6)
+--
+name: example4
+type: game
+start_position: 8/1p3nk1/1ppprNp1/6P1/1PP2P2/R7/P4K2/8 b - - 0 1
+value: 1... Nh6 2. gxh6+ Kxf6 3. Re3 Rxe3 4. Kxe3 Kf7 5. Ke4 Kg8 6. f5 Kh7 (6... g5 7. f6) 7. fxg6+ (7. f6 Kxh6)Kxg6 8. b5 (8. h7 Kxh7 9. Kf5 Kg7 10. Ke6 b5 11. cxb5 d5) Kxh6 9. Kf5 d5 11. cxd5 cxd5
+--
+name: example_5
+type: game
+start_position: 8/ppp5/5kpp/3P1p2/8/P1P1K3/1P4PP/8 w - - 0 1
+value: 1. Kd4 (1. c4 Ke5)g5 2. c4 b6 3. b4 a5 4. bxa5 bxa5 5. c5 a4 6. c6 (6. d6 cxd6 7. cxd6)Ke7 7. Ke5 f4 8. h3 h5 9. Kf5 Kd6 10. Kxg5 Kxd5 11. Kxf4 Kxc6 12. g4 hxg4 13. hxg4 Kd5 14. Kf5 c5 15. g5 c4 16. g6 c3 17. g7 c2 18. g8=Q+
+timestamps
+274.7: highlight g5,
+277.4: highlight c4,
+279.9: highlight a3,
+282.7: switch next,
+335.7: switch next,
+376.4: highlight a3,
+380.7: highlight b6,
+402.4: highlight c6,
+405.9: highlight e4,
+414: highlight g5,
+437.9: highlight h4,
+440.9: switch next,
+451.4: comment [The c2, c3 and c4 pawns.],
+553.7: switch next,
+603.7: next,
+604.4: undo,
+606.4: var 0,
+609.9: next,
+{621.4 625.7 627.4}: next,
+630.7: jump start,
+{631.9 633.9 635.7}: next,
+642.9: jump back 2,
+645.2: var 0,
+{647.4 647.9 649 650.2 650.9}: next,
+690.7: switch next,
+729.9: highlight a3,
+{731.9 734.2 736.4}: next,
+748.2: jump forward 2 1,
+763.9: jump start,
+768.7: var 0,
+773.9: jump forward 6 1.5,
+832.7: switch next,
+{849.9 857.9 869.4 870.4 871.4}: next,
+874.4: jump start,
+877.7: var 0,
+907.7: next,
+927.7: switch next,
+964.7: next,
+{968.4 989.2 992.7 999.2 1002.4 1007.4 1011.4}: next,
+1050.4: switch next,
+1102.7: var 0,
+1103.9: next,
+1116.2: jump forward 7 1,
+1126.6: jump start,
+{1129.4 1134.7 1149.2 1150.2 1151.4 1154.7 1155.9 1157.2 1158.7}: next,
+1167.4: switch next,
+{1193.9 1197.2 1200.7 1202.7 1204.2 1205.9 1206.7 1207.9 1209.2}: next,
+1230.2: switch next,
+{1361.5 1365.4 1366.9 1369.4 1372.2 1372.7 1373.4 1374.4 1375.7 1376.4 1378.2 1378.9 1379.9}: next,
+1427.4: switch next,
+{1451.2 1453.2 1458.2 1459.9 1461.4 1461.9 1463.2 1464.7 1465.2 1466.7 1472.4 1473.4}: next,
+1475.7: jump forward 8 0.7,
+1481.7: comment [That went by fast, please pause the video and rewatch that till you understand.],
+1531.4: switch next,
+{1545.4 1546.4 1551.9 1552.7 1553.7 1554.9 1563.7 1565.7 1567.2 1567.9 1569.7 1570.7 1572.4 1573.4 1574.7}: next,
+1599.4: switch next,
+{1605.9 1607.9 1609.2 1611.9 1617.9 1620.9 1623.4 1624.4 1626.2}: next,
+1635.2: jump back 5,
+1646.4: var 1,
+1685.2: switch next,
+{1710.2 1716.4 1717.7 1720.9 1722.2 1723.4}: next,
+1723.7: var 0,
+1727.4: undo,
+{1732.9 1734.7 1736.7 1740.7 1742.4 1743.9 1744.9 1745.9}: next,
+1763.2: switch next,
+{1798.7 1799.2 1800.4 1801.4 1803.4 1804.4 1805.4 1806.7 1807.7 1808.4}: next,
+1814.9: jump forward 3 1,
+1876.9: switch next,
+1881.4: start b,
+1964.9: var 0,
+{1968.9 1977.9 1979.7}: next,
+1987.9: var 0,
+2005.2: undo,
+{2010.2 2010.9 2012.4 2013.7}: next,
+2020.4: var 0,
+2021.7: next,
+2025.2: jump back 2,
+{2027.2 2028.9 2029.9 2030.7 2031.7 2032.7 2033.7 2034.4 2034.7 2035.7 2036.4 2036.9 2037.9}: next,
+2047.9: jump start,
+{2053.7 2058.4 2075.4 2085.9 2088.4}: next,
+2093.4: var 0,
+2095.4: next,
+2097.7: jump back 2,
+{2099.2 2100.9 2101.4 2102.1}: next,
+2119.9: switch next,
+2122: start w,
+{2149.7 2150.7 2162.9 2171.2 2172.2 2174.9 2177.2 2182.2 2184.4 2185.7 2186.7}: next,
+2200.9: switch next,
+2265.7: var 0,
+2294.4: undo,
+{2295.9 2297.2 2297.9 2308.7 2311.2 2312.9 2314.4 2315.7 2316.2 2318.7 2333.7 2341.2 2342.2 2343.7 2344.7 2345.9 2348.2 2348.9 2349.9 2350.9 2382.2 2383.9 2385.9 2390.4}: next,
+2392.7: undo,
+2446.4: jump start,
+2449.4: var 0,
+{2451.9 2452.9 2453.9 2454.7 2462.7 2463.2 2464.4 2465.7}: next,
+2470.7: var 0,
+{2475.9 2477.4 2478.4 2480.7 2481.7 2482.7 2485.2}: next,
+2494.9: jump back 8,
+{2500.2 2504.2 2506.7 2507.9 2508.4 2509.4 2511.9 2517.7 2520.2 2523.2 2523.7}: next,
+2526.7: comment [unfortunately the pgn I found cuts off here so I cannot show the rest of the moves, please use explorer mode and try to figure out what he means.],
+2546.7: switch next,
+{2565.7 2573.7 2575.2 2585.7 2589.9 2590.9 2606.7 2608.4 2609.7 2618.7}: next,
+2620.9: var 0,
+2622.9: next,
+2628.4: jump back 2,
+2630.2: next,
+2631.9: var 0,
+2635.9: next,
+2637.7: jump back 2,
+{2638.9 2640.4}: next,
+2643.7: var 0,
+{2645.4 2646.7 2649.4 2651.2 2657.7 2658.9 2660.2}: next,
+2670.7: jump back 8,
+{2689.4 2691.9 2692.7 2695.7 2696.7 2697.9}: next,
+2807.9: switch next,
+{}: next,
+2827.2: var 0,
+2832.2: next,
+2838.4: jump start,
+{2841.2 2844.2 2846.2 2853.2 2857.4 2859.4 2860.9 2862.2 2863.7 2865.7}: next,
+2872.4: var 0,
+2873.4: jump forward 2 1,
+2883.2: comment [The next few moves are slightly too fast for me to really understand, hense the lack of moves on the board.],
+2907.7: jump back 3,
+{2945.2 2953.2 2957.4 2959.2 2960.9 2962.4 2970.4 2975.2 2976.4 2977.4 2977.9 2980.7 2982.2 2982.7 2983.9 2985.2 2985.9 2990.4 2993.9 2997.9 2998.9 2999.9 3000.4 3001.4 3002.4}: next,
+3250: end
+chapters
+intro: 1,
+Defining passed pawns: 201,
+basic passed pawn examples: 251,
+creating passed pawns: 511,
+Understanding the deap freeze: 925,
+Outside passed pawns: 1268,
+protected passed pawns: 1484,
+connected passed pawns: 1577,
+gap tooth passed pawns: 1655,
+trousers: 1755,
+final example1: 1877,
+final example2: 2121,
+final_example_3: 2201.5,
+final example4: 2545,
+final example5: 2794

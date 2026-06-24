@@ -1,0 +1,167 @@
+url: https://youtu.be/Gu1jnDjEXT8
+name: example1
+type: game
+start_position: 8/8/4k3/7p/1p5P/1P1K4/8/8 w - - 0 1
+value: 1. Kc4 Kf5 2. Kxb4 Kg4 3. Kc5 Kxh4 4. b4 Kg4 (4... Kg3 5. b5 h4 6. b6 h3 7. b7 h2 8. b8=Q+ Kg2)5. b5 h4 6. b6 h3 7. b7 h2 8. b8=Q h1=Q
+--
+name: example2
+type: game
+start_position: 8/8/8/p4k1p/P1K4P/8/8/8 w - - 0 1
+value: 1. Kb5 Kg4 2. Kxa5 Kxh4 3. Kb6 Kg3 4. a5 h4 5. a6 h3 6. a7 h2 7. a8=Q Kf2 8. Qh1
+--
+name: rule1_example
+type: game
+start_position: 8/8/p1p1k3/Pp5p/1P1K3P/2P5/8/8 b - - 0 1
+value: 1... Kf5 (1... Kd6)2. Kc5 Kg4 3. Kb6 (3. Kxc6 Kxh4 4. Kb6 Kg3 5. Kxa6 h4 6. Kxb5 (6. c4 h3 (6... bxc4 )7. cxb5 h2 8. b6 h1=Q 9. b7 Qc6+ 10. Ka7 Qc7+ 11. Ka8)h3 7. a6 h2 8. a7 h1=Q)Kxh4
+4. Kxa6 Kg3 5. Kb6 h4 6. a6 h3 7. a7 h2 8. a8=Q h1=Q
+--
+name: rule2_example1
+type: game
+start_position: 8/8/8/5p2/p1K2P1k/P7/8/8 w - - 0 1
+value: 1. Kb4 Kg4 2. Kxa4 Kxf4 3. Kb5 (3. Kb4) Ke3 4. a4 f4 5. a5 f3 6. a6 f2 7. a7 f1=Q+
+--
+name: rule2_example2
+type: game
+start_position: 8/p6p/p1K3p1/4kp2/2Pp4/6P1/PP2P2P/8 b - - 0 1
+value: 1... g5 2. Kd7 (2. a3 f4 3. a4 f3 (4... d3 5. exd3 f3)5. exf3 d3) (2. c5 f4 3. Kb7 f3 4. exf3 d3 5. c6 d2 6. c7 d1=Q 7. c8=Q Qxf3+ 8. Kxa6) f4 3. c5 f3 4. exf3 (4. c6 f2 7. c7 f1=Q 8. c8=Q Qh3+ 9. Kd8 Qxc8 10. Kxc8)d3 5. c6 d2 6. c7 d1=Q+
+--
+name: rule3_example1
+type: game
+start_position: 8/p7/8/1k1K4/8/8/6P1/8 w - - 0 1
+value: 1. g4 a5 2. g5 a4 3. g6 a3 4. g7 a2 5. g8=Q a1=Q 6. Qb8+ Ka5 7. Qa8+
+--
+name: rule3_example2
+type: game
+start_position: 8/p7/1nr2N2/4RK2/7P/8/2k5/8 b - - 0 1
+value: 1... Rxf6+ 2. Kxf6 Nd7+ 3. Kf5 Nxe5 4. Kxe5 (4. h5)a5 5. h5 a4 6. h6 a3 7. h7 a2 8. h8=Q a1=Q+ 9. Kd5 Qxh8
+--
+name: rule4_example1
+type: game
+start_position: 8/8/1pk2Kp1/p6p/P4P1P/8/8/8 b - - 0 1
+value: 1... b5 2. axb5+ Kd6 (2... Kb6 3. Kxg6 b5 4. f5 b4 5. f6 b3 6. f7 b2 7. f8=Q b1=Q) (2... Kd7)3. Kxg6 a4 4. f5 (4. b6 a3 5. b7 Kc7)a3 5. f6 a2 6. f7 Ke7 7. Kg7 a1=Q+
+--
+name: rule4_example2
+type: game
+start_position: 8/8/5p2/6p1/6P1/2K3kP/2P5/8 b - - 0 1
+value: 1. Kd4 (1. Kb4 Kxh3 2. c4 f5 (2... Kxg4 3. c5 Kf5 4. c6 Ke6 5. Kc5 g4 6. Kb6 (6. c7 Kd7 7. Kb6 Kc8) g3 6. c7 Kd7 7. Kb7 g2 8. c8=Q+)gxf5 g4 4. f6 g3 5. f7 g2 6. f8=Q g1=Q 7. Qh8+ Kg2 8. Qg8+ Kh1 9. Qxg1+ Kxg1 10. c5)
+Kxh3 2. c4 f5 (2... Kxg4 3. c5 Kf5 4. Kd5) 3. c5 (3. gxf5 g4 4. f6 g3 5. f7 g2 6. f8=Q g1=Q+) f4 (3... fxg4) 4. c6 f3 5. c7 f2 6. c8=Q f1=Q
+--
+name: rule5_example
+type: game
+start_position: 8/8/8/pppk3p/5P2/1P1K3P/P7/8 w - - 0 1
+value: 1. a4 (1. h4 c4+ 2. bxc4+ bxc4+ 3. Kc3 (3. Ke3 c3 4. Kd3 c2 5. Kxc2 Ke4)Ke4 4. Kxc4 Kxf4 5. Kb5 (5. Kd4 Kg4)Kg4 6. Kxa5 Kxh4 7. Kb6 Kg3)bxa4 2. bxa4 h4 (2... c4+ 3. Kc3 Ke4 4. Kxc4) 3. f5 Ke5 4. Kc4 Kxf5 5. Kxc5 Kf4 6. Kd4 Kg3 7. Ke3 Kxh3 8. Kf3 Kh2 9. Kf2 h3 10. Kf1 Kg3 11. Kg1 Kf3 12. Kh2 Ke3 13. Kxh3 Kd3 14. Kg2 Kc3 15. Kf2 Kb3 16. Ke2 Kxa4 17. Kd1 Kb3 18. Kc1 Ka2 19. Kc2 a4 20. Kc1 a3 21. Kc2
+timestamps
+220.2: comment [I have made the moves on the board even when he draws arrows, for the sake of simplicity. Sometimes he shows different variations when he actually moves on the board and at these times I will undo and remake the moves.],
+{232.9 233.9 234.9 235.9 240.2 241.4 242.2 244.9 246.4 247.2 247.8 248.4 249 249.4 249.9 250.7}: next,
+271.2: jump start,
+273.4: jump forward 7 0.8,
+279.4: var 0,
+282.7: jump forward 7 0.7,
+295.9: next,
+358.2: switch next,
+{384.9 385.4 385.9 386.7 389.2 390.7}: next,
+391.7: jump forward 7 0.7,
+{425.4 428.7}: next,
+558.4: switch next,
+{645.2 646.9 649.2}: next,
+678.2: var 0,
+{682.2 683.9 684.9 685.7 687.2 700.7 701.9 702.4 703.2 703.4 704.2}: next,
+711.3: jump back 6 0.4,
+717.4: var 0,
+720.2: var 0,
+726.9: undo,
+730.4: next,
+734.4: jump forward 4 1,
+{744.4 756.7 758.2 760.7 762.7}: next,
+770.8: jump back 17,
+{781.4 800.4 802.9 803.9 806.2 809.4 810.2 812.9 813.4 814.4 815.2 816.2}: next,
+861.7: jump start,
+870.2: var 0,
+971.7: switch next,
+{986.4 987.4 988.7 989.9 1004.9}: next,
+1013.9: undo,
+1016.7: var 0,
+1019.2: undo,
+{1021.7 1031}: next,
+1031.4: jump forward 8 0.8,
+1061.4: switch next,
+1112.2: next,
+1166.9: var 0,
+1167.7: jump forward 2 0.6,
+{1170.9 1171.9 1172.7}: next,
+1195.9: jump back 6,
+{1272.4 1284.9 1286.7 1302.7 1306.9 1308.7 1309.2 1309.9 1311.2 1311.9}: next,
+1315.4: jump back 6 0.2,
+1319.4: var 0,
+{1364.4 1366.4 1367.2 1368.2 1370.7 1371.9 1374.2 1374.7}: next,
+1404.2: jump start,
+1405.9: next,
+1407.9: var 1,
+{1409.4 1416.2 1422.7 1424.2}: next,
+1425.7: jump forward 6 0.7,
+{1439.4 1440.7}: next,
+1554.9: switch next,
+{1586.4 1586.9 1588.2 1588.7 1589.2 1589.7 1590.4
+1590.9 1591.4 1592.9 1611.2 1612.9 1614.4}: next,
+1629.7: switch next,
+{1663.4 1663.9 1664.9 1666.7 1667.7}: next,
+1675.7: var 0,
+1694.7: undo,
+1697.7: next,
+1708.2: jump forward 9 1,
+1796.2: switch next,
+1800.9: start b,
+{1838.2 1849.4 1922.4 1935.4 1936.7 1937.7 1938.9 1939.7
+1940.4 1940.9 1960.4 1964.2 1968.4}: next,
+2054.7: switch next,
+2062.9: start w,
+{2165.9 2203.7 2204.9}: next,
+2207.7: var 0,
+{2210.9 2211.9 2218.7}: next,
+2227.9: jump back 4 0.3,
+2235.4: next,
+2239.4: var 0,
+2241.2: jump forward 7 0.6,
+2269.5: jump back 8,
+2271.9: next,
+2304.7: var 0,
+2309.7: undo,
+2314.4: jump forward 7 1,
+2335.4: jump start,
+2373.7: var 0,
+{2378.4 2380.2 2382.7}: next,
+2385.4: jump forward 8 0.7,
+2392.7: jump forward 7 0.7,
+2402.2: jump start,
+2403.7: var 0,
+2404.2: jump forward 2,
+2406.7: var 0,
+{2407.2 2407.5 2418.9 2419.9 2421.7 2431.2}: next,
+2433.2: var 0,
+2436.2: jump forward 3 0.8,
+2443.2: jump back 4,
+{2445.4 2446.4 2447.7 2449.2 2449.9 2451.2}: next,
+2534.9: switch next,
+2657.2: var 0,
+{2664.4 2665.2 2665.9}: next,
+2673.7: var 0,
+2676.4: jump forward 5 1,
+2682.2: jump back 6,
+2684.2: jump forward 8 0.6,
+{2693.2 2694.7}: next,
+2702.4: jump start,
+{2707.4 2712.2 2713.2}: next,
+2715.9: var 0,
+2716.7: jump forward 3 0.6,
+2756.9: jump back 4 0.4,
+{2769.9 2771.7 2772.4 2773.7 2775.4 2776.2 2777.2 2812.2 2812.7 2813.7 2814.2 2816.4 2817.2 2817.9 2826.2 2829.7}: next,
+2863.4: comment [Pause the video and press tab to understand the rest of this example.],
+2933.4: comment [That went by fast. I wasn't able to write the moves for that but feel free to go back and explore using explorer mode.],
+3110: end
+chapters
+intro: 1,
+rule_1: 550,
+rule_2: 917,
+rule_3: 1505,
+rule_4: 1770,
+rule_5: 2505
