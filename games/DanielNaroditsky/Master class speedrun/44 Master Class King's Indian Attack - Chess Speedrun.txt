@@ -1,0 +1,156 @@
+url: https://youtu.be/knRe3EsANdg
+name: game1
+type: game
+value: 1. e4 e6 2. d3 d5 3. Nd2 (3. g3 dxe4 4. dxe4 Qxd1+ 5. Kxd1) (3. Nc3 Nf6 (3... d4 4. Nce2) 4. g3 dxe4)c5 (3... Nf6 4. g3 c5 5. Bg2 Nc6 6. Ngf3) (3... d4) 4. Ngf3 Be7 5. g3 Nf6 6. Bg2 h6 (6... Nc6 7. O-O O-O 8. e5) 7. O-O O-O 8. e5 Nh7 (8... Nfd7 9. Re1) 9. h4 Nc6 10. Re1 f5
+11. exf6 (11. Nf1 b5)Bxf6 12. Nf1 e5 (12... Bd7 13. Ne3 b5 14. Ng4) 13. Ne3 d4 (13... e4) (13... Be6 14. Nh2) 14. Nc4 Bg4 15. Re4 (15. Qe2)Qd7 (15... h5 16. Rxg4 hxg4 17. Nh2) (15... Bh5 16. Qe1) (15... Bf5 16. Nfd2 (16. Rxe5 Nxe5 17. Nfxe5)Bxe4 17. Nxe4) 16. Nfxe5 Nxe5 17. Nxe5 Bxd1 (17... Bxe5 18. Qxg4 (18. Rxg4 Nf6 19. Rg6 Qf5)Qxg4 19. Rxg4 Nf6 20. Rg6 Kf7 21. Rxf6+ Bxf6 22. Bxb7 Rae8 23. Be4) 18. Nxd7 Rfd8 19. Nxc5 (19. Nxf6+ Nxf6)Bxc2 20. Re2 b6 (20... Bd1 21. Re1)
+21. Bxa8 (21. Rxc2 Rac8 22. Ne6 (22. b4 bxc5)Rxc2) (21. Ne6 Bxd3)bxc5 (21... Bd1 22. Re1) 22. Rxc2 Rxa8 23. Rxc5 Re8 24. Kf1 Be7 25. Rc7 Nf6 26. Rxa7 Bb4 27. Bf4 g5 28. hxg5 Nd5 29. gxh6 Nxf4 30. gxf4 Bd2 
+31. Kg2 Bxf4 32. Rh1 Kh8 33. Rh4 (33. Kf3)Bd2 34. f4 Rg8+ 35. Kf3 Be3 36. Rg4 Rf8 37. h7 Bc1 38. Rg8+ Rxg8 39. hxg8=Q+
+--
+name: game2
+type: game
+value: 1. e4 e6 2. d3 d5 3. Nd2 (3. g3 dxe4 4. dxe4 Qxd1) (3. Nc3 Nf6 (3... d4)) Nf6 4. g3 c5 5. Bg2 Nc6 6. Ngf3 Be7 7. O-O O-O 8. e5 Nd7 9. Re1 b5 10. Nf1 b4 11. h4 (11. Bf4 g5 12. Be3 g4 13. Nh4)a5 12. Bf4 a4 13. a3 (13. Ne3 a3)bxa3 14. bxa3 Na5 15. Ne3 Ba6 16. Bh3 d4 17. Nf1 (17. Ng4) Nb6 18. Ng5 Nd5 19. Bd2 (19. Nxe6 fxe6 20. Bxe6 Kh8) (19. Bxe6 fxe6 20. Nxe6) (19. Nd2 Nxf4 20. gxf4 h6)Bxg5 20. Bxg5 Qd7
+21. Qh5 Rfc8 (21... g6 22. Qh6) 22. Nd2 Nc3 23. Bf6 Qe8 (23... gxf6 24. exf6 Kh8 25. Nf3 Rg8 26. Ne5)24. Ne4 g6 25. Qg5 Nxe4 26. Rxe4 c4 27. h5 cxd3 28. Rh4 Ra7 29. Bg2 dxc2 30. Qh6 Qf8 31. Qxh7+ Kxh7 32. hxg6+ Kxg6 (32... Kg8 33. Rh8#)33. Be4#
+--
+name: example1
+type: game
+start_position: 3rq1k1/4rppp/2n3b1/pp2P3/2pP1QB1/P1P1R3/1B4PP/4R1K1 w - - 0 1
+value: 1... Re6 2. Bxe6 fxe6 3. a4 Ne7 (3... b4 4. d5 exd5) 4. Ba3 Nd5 {The game would end in a draw.}
+--
+name: example2
+type: game
+start_position: r3r1k1/1pqn1pbp/p2p2p1/3P4/1RP5/4B3/P3BPPP/3Q1RK1 b - - 0 1
+value: 1... Rxe3 2. fxe3 Nc5 (2... Qc5 3. Qxb7)3. Qc2 Re8 4. Rb6 Na4
+timestamps
+7.2: start w,
+{12.9 31.9 91.2 97.6 126.6 128.9 132.2 161.6 165.1 169.9
+174.1 176.4 177.9 180.2 231.7 261.7}: next,
+310.2: highlight h7,
+{323.7 339.9 349.9 351.4 359.2 362.9}: next,
+370.2: highlight g6,
+{379.4 385.9 422.1 434.9 443.4 447.9 477.4 495.6 528.9 531.9
+533.4 545.4 548.4 553.2 577.9 585.2 589.9 595.9 639.9 660.6
+662.9 664.6 666.1 669.9 688.7 693.9 698.9 703.2 706.7 712.4
+721.1 723.4 724.9 732.2 736.9 738.7 740.4 742.9 765.2 766.9
+768.2 772.6 787.6 792.9 797.6 802.1 803.9 806.1 810.9 812.6
+827.6 841.9 844.6 847.4 847.9}: next,
+873.2: switch next,
+{895.4 896.4 897.7 898.7 900.2 900.9 902.2}: next,
+905.4: jump back 3,
+907.9: var 0,
+910.4: next,
+914.9: jump back 2,
+919.4: var 1,
+924.7: next,
+954.4: undo,
+959.1: var 0,
+982.6: jump back 2,
+{984.4 984.9 987.1 988.1 988.9 990.1 991.1 992.6 994.9 995.9 1018.1 1021.9 1023.6 1044.1 1048.6 1050.9 1065.4 1067.4 1067.9}: next,
+1077.4: jump back 3,
+1079.6: var 0,
+{1082.1 1084.4 1085.6 1089.1}: next,
+1100.6: jump back 5,
+{1132.9 1133.9 1134.9 1136.1 1138.1}: next,
+1142.6: undo,
+1145.1: var 0,
+1151.1: next,
+1165.1: jump back 2,
+{1166.9 1167.7 1169.2 1172.2 1200.9 1204.2 1208.4 1248.9}: next,
+1269.7: var 0,
+1281.9: undo,
+{1290.1 1315.4 1319.4 1322.1}: next,
+1327.9: var 0,
+1328.1: jump forward 3 1,
+1333.9: jump back 4,
+1339.2: var 1,
+{1342.4 1343.4}: next,
+1371.9: jump back 3,
+1394.7: var 2,
+{1397.2 1398.4 1401.9}: next,
+1410.6: jump back 4,
+{1413.6 1431.1 1461.4 1463.9 1469.1}: next,
+1474.1: var 0,
+1476.9: next,
+1479.9: jump back 2,
+{1484.7 1501.7 1513.4 1539.2}: next,
+1547.6: next,
+1556.4: undo,
+1558.9: var 0,
+{1561.4 1566.4 1607.1 1615.4 1618.9}: next,
+1629.1: jump back 6,
+{1633.6 1635.1 1645.9 1647.6 1658.1 1661.9 1664.6 1667.1 1668.4 1682.2
+1688.7 1697.7 1708.7 1710.7 1712.4 1735.7 1736.9 1738.1 1741.6 1744.4}: next,
+1813.2: switch previous,
+1869.7: jump forward 6 1,
+{1876.4 1877.4 1878.9 1879.9 1881.2 1884.7 1897.2 1897.9 1899.9}: next,
+1907.6: var 0,
+1911.1: next,
+1920.4: jump back 2,
+{1922.6 1923.9 1929.7 1930.9 1932.4}: next,
+1945.4: var 0,
+1952.6: next,
+1964.7: jump back 2,
+{1967.4 1969.4 1979.4}: next,
+1994.2: var 0,
+{1996.7 1999.9 2001.2}: next,
+2018.7: jump back 4,
+{2021.4 2024.7 2027.1}: next,
+2034.6: undo,
+2043.9: var 0,
+2047.9: undo,
+2059.4: var 1,
+2070.4: next,
+2114.4: jump back 2,
+{2117.9 2118.6 2122.9 2126.6}: next,
+2130.9: undo,
+2134.6: var 0,
+2139.2: undo,
+{2141.4}: next,
+2160.2: var 0,
+{2167.4 2224.4 2234.7}: next,
+2316.4: jump back 4,
+{2332.4 2335.2 2337.7 2338.7}: next,
+2341.2: var 0,
+{2350.7 2351.7 2352.7 2354.9 2357.7 2360.4}: next,
+2364.9: jump back 6 0.3,
+2370.4: var 0,
+{2374.4 2377.6 2380.6}: next,
+2404.4: jump back 4 0.3,
+{2407.6 2408.6 2409.9 2410.6 2412.1 2414.4 2424.9 2426.6 2428.4 2430.4 2433.1}: next,
+2453.6: jump back 16 0.5,
+2462.9: var 2,
+{2483.4}: next,
+2486.6: undo,
+2487.6: var 0,
+{2490.4 2491.1}: next,
+2494.4: jump back 3 0.4,
+{2499.7 2500.9 2502.4}: next,
+2542.7: jump back 3,
+2544.9: undo,
+2546.9: jump forward 7 1,
+2580.9: var 0,
+2582.9: next,
+2588.9: jump back 2,
+{2590.1 2591.4 2592.4}: next,
+2598.6: var 0,
+2600.9: next,
+2608.4: jump back 2,
+2612.4: next,
+2614.9: var 0,
+2616.9: next,
+{2637.1 2639.9}: next,
+2644.6: jump back 2,
+2649.9: var 0,
+2653.9: next,
+2832.9: switch example1,
+2907.9: start b,
+{2990.1 3038.6 3041.1}: next,
+3073.4: next,
+3088.7: var 0,
+3110.4: next,
+3134.4: jump back 2,
+{3137.1 3138.6 3139.9}: next 0,
+3198.9: switch next,
+{3302.2 3309.2 3325.1 3329.1 3330.4 3342.1 3358.6}: next,
+3391.1: jump back 5 0.4,
+3394.1: var 0,
+3600: end

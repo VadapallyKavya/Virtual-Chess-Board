@@ -1,0 +1,52 @@
+url: https://youtu.be/fz9td9L2uIo
+name: the_game
+type: game
+value: 1. e4 c6 2. c4 d5 3. cxd5 (3. exd5)cxd5 4. e5 (4. exd5 Qxd5 (4... Nf6 5. Bb5+) 5. Nc3)Nc6 (4... d4 5. Bc4 Nc6 6. Nf3) 5. d4 Bf5 6. Nc3 e6 7. Nf3 Qb6 (7... Nb4 8. Bb5+) 8. Be2 Nh6 (8... Nge7 9. Nb5 Ng6) (8... Be7) 9. Na4 (9. Bxh6)Qc7 10. O-O Be7 11. Bd2 Bg6 12. a3 Nf5 13. Be3 O-O 14. Nc3 f6 15. Nb5 (15. exf6 Bxf6 (15... gxf6))Qb6 16. Bd3 (16. exf6 Bxf6)fxe5 17. Bxf5 (17. dxe5) (17. Bd2 e4) (17. Qb3 e4)Bxf5 18. Nc3 Qxb2 19. Na4 Qc2
+--
+name: example1
+type: game
+start_position: b2r2k1/p4pp1/P1p1p3/2P3P1/8/1R3B2/5PK1/8 w - - 0 1
+value: 1. Rb1
+timestamps
+11.2: start b,
+{14.4 17.9 20.4 42.6 82.4 83.4 85.4 145.4 153.4 158.6
+199.6 201.9 272.6 319.6 345.4 406.1 432.1 460.4 461.9 464.9
+467.1 471.1 472.6 473.9 490.6 519.1 530.9 551.4 556.4 575.4
+623.9 712.1 764.6 779.1}: next,
+1039.1: jump start,
+{1065.9 1066.9 1068.1 1070.9 1072.4 1074.4}: next,
+1092.4: var 0,
+{1093.9 1100.4}: next,
+1104.1: jump back 2,
+1107.1: var 0,
+1113.4: next,
+1127.4: jump back 3,
+1130.1: next,
+1161.4: var 0,
+{1178.4 1180.9 1181.9}: next,
+1198.6: jump back 4,
+{1200.6 1201.6 1202.1 1203.4 1203.9 1204.9 1206.1 1216.4 1236.1}: next,
+1239.1: var 0,
+1282.6: undo,
+1289.6: undo,
+1293.1: var 0,
+1325.1: next,
+1340.1: jump back 2,
+{1340.9 1341.6 1342.6 1343.9 1348.6 1352.9 1357.9 1362.1 1363.9}: next,
+1490.6: switch next,
+1506.1: highlight a8,
+1527.1: highlight c6,
+1601.4: switch previous,
+1603.4: jump forward 28,
+1611.1: comment [feel free to pause and get your barings, he's in the position after black played f6.],
+1613.4: var 0,
+1617.1: next,
+1624.9: undo,
+1626.9: var 0,
+1667.9: jump back 2,
+{1672.1 1673.6}: next,
+1677.4: var 0,
+1682.6: undo,
+{1684.4 1684.9}: next,
+{1694.1 1695.6 1697.4 1701.1 1702.9 1706.6}: next,
+1840: end
