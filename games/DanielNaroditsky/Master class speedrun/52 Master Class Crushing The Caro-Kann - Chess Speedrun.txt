@@ -1,0 +1,35 @@
+url: https://youtu.be/gyOxMMJWiYg
+name: the_game
+type: game
+value: 1. e4 c6 2. d4 d5 3. f3 h5 (3... g6) (3... e6) (3... Qb6) 4. Nc3 Nf6 5. e5 Nh7 (5... Nfd7 6. e6 fxe6 9. f4 (9. Bd3 Nf6 10. f4))6. Bd3 Bd7 7. f4 Bg4 8. Nf3 Qb6 9. a3 e6 10. h3 Bxf3
+11. Qxf3 Qxd4 12. Be3 Ng5 13. Qe2 Qxe3 14. Qxe3 Ne4 15. Bxe4 dxe4 16. Nxe4 Nd7 17. O-O-O O-O-O 18. Qxa7 Be7 19. Rd6 Kc7 (19... f5 20. Rxc6+ bxc6 21. Nd6+) 20. Rhd1 Nb6 21. Nc5 Bxd6 22. Qxb7#
+--
+name: example1
+type: game
+value: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Qb6 8. a3 Qxd4 9. Be3
+timestamps
+6.2: start w,
+{9.7 11.2 13.7 15.0 45.9 48.2 101.2 113.7 154.7 173.2 251.9 271.2 287.2 295.7 313.2 316.2 377.9 382.7 385.7 388.4 389.4 394.7 397.9 406.9 430.2 488.2 490.4 493.4 525.9 526.9 528.4 530.9 538.9 553.9 566.9 575.4 588.9 598.4 604.7 617.4 633.9 654.7 658.4}: next,
+668.4: jump start,
+670.4: jump forward 5 1,
+722.9: flash var 0 1,
+725.9: flash var 1 1,
+731.2: flash var 2 1,
+{745.2 746.9 748.2 750.9}: next,
+753.2: var 0,
+{754.7 758.7 772.7}: next,
+773.7: undo,
+775.7: var 0,
+789.7: jump back 4 0.5,
+{792.4 793.4 794.2}: next,
+821.7: switch next,
+{}: next,
+826.4: jump forward 10 0.7,
+{834.2 835.2 836.9 838.4 851.7 874.7 875.9}: next,
+883.7: switch previous,
+887.2: jump forward 16,
+{892.9 896.9 925.9 926.7 927.7 928.7 929.4}: next,
+936.4: jump forward 14 0.2,
+942.7: var 0,
+{957.7 962.7 963.4}: next,
+1035: end

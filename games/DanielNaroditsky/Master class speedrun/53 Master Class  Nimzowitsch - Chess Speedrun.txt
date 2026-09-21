@@ -1,0 +1,62 @@
+url: https://youtu.be/DqBi8Zt412s
+name: the_game
+type: game
+value: 1. e4 e5 2. d4 Nc6 3. dxe5 Nxe5 4. Nc3 Bb4 (4... Nf6 5. f4 Ng6 6. e5 Ng8 7. Nf3) 5. Qd4 (5. Nf3 Bxc3+ 6. bxc3) (5. Bd2)Qe7 (5... Nc6 6. Qxg7 Qf6 7. Qxf6 Nxf6 8. Bd3) 6. f4 Ng6 (6... Nc6 7. Qxg7 Qxe4+ (7... Qf6) 8. Ne2 (8. Kd1 Qd4+)) 7. Qxg7 Qxe4+ 8. Kd1 (8. Ne2)Bxc3 9. Qxc3 c6 (9... N8e7 10. Nf3 (10. Qxc7 O-O)O-O 11. Bd3 Qc6) 10. Nf3 d5 11. Bd3 d4 (11... Qe7 12. Re1 (12. Bxg6)Be6 13. f5) 12. Qc5 Qd5 (12... Qe7 13. Re1 Be6 14. Qxe7+ (14. Qxd4)N8xe7 (14... N6xe7 15. f5 (15. Nxd4)Bd5) 15. f5 Bxf5 16. Bxf5) 13. Re1+ Be6 (13... N8e7 14. Qxd5 cxd5 15. f5 Nf8 16. f6) 14. Qxd5 cxd5 15. f5 Nf4 16. Bxf4
+--
+name: example1
+type: game
+start_position: r1bqk2r/pp3pp1/2pbpn1p/8/3P3Q/3B1N2/PPP2PPP/R1B1K2R b KQkq - 0 1
+value: 1... Ke7 2. Ne5 Bxe5 3. dxe5 Qa5+
+timestamps
+7.4: start w,
+{11.2 12.4 24.9 32.9 68.9 70.9 129.1 133.8 194.3 220.1 229.8 262.2 310.6 322.6 351.2 380.0 393.5 437.0}: next,
+460.6: highlight g2,
+{462.4 479.6 489.2 544.9 607.6 652.9 663.7 666.9 676.7 682.2 683.1 700.0 701.5}: next,
+733.0: jump start,
+735.5: jump forward 7 1,
+750.4: var 0,
+{753.5 760.1 775.1 778.6 780.1}: next,
+790.2: jump back 6,
+792.5: next,
+799.6: var 0,
+803.9: jump forward 2 0.8,
+811.5: jump back 3,
+820.1: next,
+822.9: var 0,
+{825.6 830.0 832.0 833.0}: next,
+839.3: jump back 5 0.2,
+{850.8 851.5}: next,
+855.6: var 0,
+{858.1 864.3}: next,
+865.7: var 0,
+898.6: next,
+905.2: jump back 2,
+914.2: next,
+927.0: jump back 4,
+{929.3 930.8 932.6}: next,
+981.4: switch next,
+986.8: start b,
+{1014.6 1043.5 1073.0 1074.0 1075.0}: next,
+1101.3: switch previous,
+1114.7: jump forward 15,
+{1223.6 1224.6}: next,
+1234.5: var 0,
+{1240.6 1241.6 1242.6 1246.7}: next,
+1251.0: jump back 4,
+1262.7: var 0,
+1268.7: next,
+1303.9: jump back 3,
+{1306.5 1307.0 1308.5 1309.5 1310.5 1327.0}: next,
+1330.8: var 0,
+{1333.1 1334.8}: next,
+1351.5: flash var 0 4,
+1358.2: next,
+{1363.0 1364.0 1365.2 1366.2}: next,
+1368.8: jump back 4,
+1372.8: var 0,
+{1374.4 1375.1}: next,
+1388.8: jump back 7,
+{1390.3 1391.1}: next,
+1394.1: var 0,
+{1397.0 1398.0 1399.0 1399.7 1400.7}: next,
+1410: end

@@ -1,0 +1,205 @@
+url: https://youtu.be/Fxjthnv7mBQ
+name: waiting_move_sacrifice_example
+type: game
+start_position: 8/p7/1p3p2/2p1p1k1/P1P1P3/1P3KP1/8/8 b - - 0 1
+value: 1... Kh5 (1... f5+ 2. exf5 Kxf5 3. g4+ Kg5 4. Ke4) 2. Kf2 (2. g4+ Kh4)Kg4 3. Kg2 a6 4. Kf2 Kh3 5. a5 (5. Kf3 Kh2 6. Kf2 a5 7. Kf3 (7. g4 Kh3) Kg1 8. g4 (8. Ke3 Kg2) (8. Kg4 Kg2 9. Kf5 Kxg3 10. Kxf6 Kf4)) bxa5 6. Kf3 Kh2 7. Kf2 a4 8. bxa4 a5 9. Kf3 Kg1 10. g4 Kf1 (10... Kh2 11. g5 (11. Kf2 Kh3 12. Kf3 Kh4) fxg5 12. Kg4) 11. g5 fxg5 12. Kg4 Ke2 13. Kxg5 (13. Kf5 Kf3 14. g4) Kd3 14. Kf5 Kd4
+--
+name: mowing_the_lawn_example
+type: game
+start_position: 8/pp2kppp/4p3/8/1Pr5/P3PP2/3K1P1P/R7 w - - 0 1
+value: 1. Rc1 Rxc1 2. Kxc1 Kf6 (2... Kd6 3. Kd2)3. Kd2 Kg5 4. Ke2 Kh4 5. Kf1 Kh3 6. Kg1 e5 7. Kh1 b5 8. Kg1 f5 9. Kh1 g5 10. Kg1 h5
+11. Kh1 g4 12. e4 (12. fxg4 fxg4 13. Kg1 e4 14. Kh1 h4 15. Kg1 g3 16. hxg3 hxg3 17. fxg3 Kxg3) fxe4 13. fxe4 h4 14. Kg1 g3 15. hxg3 hxg3 16. f3 (16. Kf1 g2+ 17. Kg1 a6 18. f3 Kg3 19. a4 bxa4 20. b5 a3) (16. fxg3 fxg3 17. Kg1 Kg4)g2 17. f4 (17. Kf2 Kh2) exf4 18. e5 Kg3 19. e6 f3 20. e7 f2#
+--
+name: mowing_the_lawn_example2
+type: game
+start_position: 8/pp6/8/8/1P6/P6k/8/6K1 b - - 0 1
+value: 1... Kg3 2. Kf1 Kf3 3. Ke1 Ke3 4. Kd1 Kd3 5. Kc1 Kc3
+--
+name: moving_opponent's_pawns_example
+type: game
+start_position: 8/5p2/7k/6p1/5P1P/8/8/7K w - - 0 1
+value: 1. hxg5 (1. fxg5 Kh5 2. Kg2 Kg4 3. Kh2 Kxh4 4. Kg2 Kxg5 5. Kg3 Kf5 6. Kf3 f6 7. Ke3 Kg4) Kh5 2. g6 (2. Kg2 Kg4 3. g6 fxg6 4. f5 gxf5) fxg6 (2... Kxg6 3. Kg2) 3. f5 gxf5 4. Kg1 (4. Kg2 Kg4) Kg5 (4... Kg4 5. Kg2) 5. Kf1 Kh4 6. Kf2
+--
+name: moving_opponent's_pawns_example2:
+type: game
+start_position: 8/8/p4p2/1p4p1/8/P4Pk1/1P4P1/5K2 w - - 0 1
+value: 1. b4 f5 (1... Kf4 2. Kf2 Ke5 3. Ke3) 2. Kg1 g4 3. fxg4 Kxg4 (3... fxg4 4. Kf1) 4. Kf2 f4 5. Ke2 Kg3 6. Kf1 f3 7. gxf3 (7. Kg1 fxg2 8. a4 bxa4)Kxf3 8. Ke1 Ke3 9. Kd1 Kd3 10. Kc1 Kc3
+11. a4 Kxb4 (11... bxa4 {this is a theoretical draw.}) 12. axb5 axb5 13. Kb2
+--
+name: inducing_weaknesses_example
+type: game
+start_position: 8/4k2p/p2p2p1/1p1P1pP1/2p2P2/2P2K2/PP5P/8 w - - 0 1
+value: 1... a5 2. a4 Kd7 (2... bxa4 3. Ke3) 3. Ke3 Kc7 4. Kd4 Kb6 5. axb5 Kxb5 6. h3 (6. h4 h5) a4 7. h4 Kb6 8. Kxc4 Ka5 9. Kd3 Kb5 10. Kd4 Ka5
+11. c4 Kb4 12. c5 dxc5 13. Ke5 (13. Kd3 c4+)
+--
+name: inducing_weaknesses_example2
+type: game
+start_position: 8/7p/1k1n2p1/1b1p1p2/1P1Np2P/2K1P1P1/4BP2/8 w - - 0 1
+value: 1. Bxb5 Nxb5+ 2. Nxb5 Kxb5 3. Kd4 Kxb4 4. g4 (4. Kd5 Kc3 5. Ke6 Kd2) Kb3 (4... fxg4) 5. gxf5 gxf5 6. Kxd5 Kc3 7. Ke5 Kd3 8. Kxf5 Ke2 9. Kxe4 Kxf2 10. Kf4
+--
+name: corresponding_squares_example
+type: game
+start_position: 8/8/2p5/k1p1K3/p1P5/P7/8/8 w - - 0 1
+value: 1. Kf5 (1. Kd6 Kb6){The coresponding square to f5 is b5, however that square is inaccessible to black.} Kb6 (1... Ka6 2. Ke6 Ka7 3. Ke7 Ka8 4. Kd6) 2. Kf6 Kb7 (2... Kc7 3. Ke7) (2... Ka7 3. Ke7) 3. Kf7 Kb8 4. Ke6 (4. Ke8 Ka8) Kc8 5. Kd6 Kb7 6. Kd7 Kb6 7. Kc8 Ka6 8. Kc7
+--
+name: coresponding_squares_example2
+type: game
+start_position: 8/3k4/8/8/8/3KP3/8/8 w - - 0 1
+value: 1. Ke4 Ke6 2. Kd4 Kd6
+--
+name: keeping_pawns_back_example
+type: game
+start_position: 8/8/1p1k4/p4p1p/1PPKp2P/P7/5P2/8 b - - 0 1
+value: 1. c5+ (1. bxa5 bxa5 2. a4 Kc6 (2... Ke6 3. c5) 3. Ke5 Kc5 4. Kxf5 Kxc4 5. Kxe4 Kb4 6. f4 Kxa4 7. f5 Kb3 8. f6 a4 9. f7 a3 10. f8=Q a2 11. Qf6)bxc5 2. bxc5 Kc6 3. Ke5 (3. a4 f4 4. Kxe4 Kxc5 5. Kxf4 Kb4 6. Kg5 Kxa4 7. f4 Kb3 {The pawns promote at the same time!})Kxc5 4. Kxf5 Kd4 
+timestamps
+219.1: start b,
+329.4: var 0,
+{343.4 347.6 351.6 352.9 354.6}: next,
+367.4: jump start,
+416.6: next,
+423.6: var 0,
+427.1: undo,
+{429.9 435.4 438.4 456.4 468.1 474.1}: next,
+490.9: var 0,
+{492.4 495.6 502.4}: next,
+508.9: var 0,
+512.9: next,
+516.4: jump back 2,
+{519.9 524.4 530.4}: next,
+547.4: undo,
+555.9: var 0,
+558.6: next,
+560.9: jump back 2,
+562.1: var 1,
+{565.1 565.9 566.6 567.6 570.4}: next,
+574.9: jump back 12 0.5,
+{585.9 590.1 591.4 614.1 615.9 622.1 623.1 626.4 635.4 637.1 641.1}: next,
+670.1: var 0,
+672.6: var 0,
+673.1: next,
+677.6: jump back 2,
+{680.6 685.9 686.9}: next,
+694.4: jump back 4 0.5,
+{700.4 707.9 716.4 717.4 721.6 724.6}: next,
+727.9: undo,
+730.4: var 0,
+733.6: next,
+740.6: jump back 2,
+{741.9 744.4 745.4 746.7}: next,
+835.1: switch next,
+969.9: start b,
+{979.6 986.9 988.4}: next,
+1027.4: highlight h2,
+1048.4: var 0,
+1055.9: next,
+1065.9: jump back 2,
+{1067.6 1068.6 1069.6 1073.6 1074.4 1075.4 1075.9 1077.1}: next,
+1239.4: switch next,
+1240.9: start b,
+1244.6: jump forward 9 0.7,
+1258.1: switch previous,
+1262.4: jump forward 10,
+{1302.4 1302.6 1320.1 1323.9 1341.4 1348.1 1350.1 1352.9 1369.9 1370.9 1373.6 1379.1}: next,
+1398.6: var 0,
+{1413.1 1416.9 1419.6 1421.9 1424.1 1425.1}: next,
+{1427.4 1430.4 1431.6 1434.6 1435.9}: next,
+1443.4: highlight e3,
+1464.6: jump back 12 0.5,
+{1479.1 1484.1 1485.6 1487.9 1488.4 1489.9 1495.4 1496.6 1499.4 1502.6}: next,
+{1509.9 1511.4 1512.9 1515.9 1517.6 1518.1 1519.1 1520.4}: next,
+1526.1: jump back 8 0.4,
+1530.4: jump back 2,
+1531.9: var 0,
+{1537.1 1539.4 1540.9 1546.6 1548.4 1551.1 1552.9 1554.6 1555.6}: next,
+1692.4: switch moving_opponent's_pawns_example,
+1698.9: start w,
+1776.9: next,
+1778.4: undo,
+1779.1: var 0,
+{1780.9 1782.1 1783.1 1784.1 1784.9 1785.9 1786.6 1787.9 1788.9 1789.9 1791.6 1793.1 1794.4}: next,
+1811.9: jump start,
+{1824.9 1826.6}: next,
+1838.4: var 0,
+{1840.6 1842.4 1846.1 1855.1 1857.1}: next,
+1873.9: jump back 6 0.5,
+1884.6: next,
+1887.4: var 0,
+1889.9: next,
+1905.4: jump back 2,
+{1911.6 1917.6 1923.6 1941.9 1954.1 1956.9 1959.6 1961.1}: next,
+2001.6: switch next,
+2019.6: start b,
+2054.9: highlight g3,
+2076.9: next,
+2084.4: var 0,
+{2086.9 2089.4 2090.4}: next,
+2093.9: jump back 4 0.5,
+{2117.9 2119.9 2124.1 2125.4}: next,
+2127.3: var 0,
+2135.1: next,
+2203.6: jump back 2,
+{2206.6 2212.9 2218.4 2257.1 2258.4 2259.9 2260.9 2265.9 2267.4}: next,
+2273.4: jump back 2,
+2277.9: var 0,
+{2282.4 2283.6 2285.6}: next,
+2288.6: jump back 4 0.5,
+{2293.4 2294.1 2309.4 2310.9 2314.9 2315.9 2318.4 2319.9 2323.1 2338.9 2343.4 2344.4 2345.9}: next,
+2448.4: switch next,
+2457.1: start b,
+{2484.9 2529.9 2568.9 2570.9 2575.1 2576.6 2577.6 2579.1 2580.4 2623.6 2625.6 2626.9 2629.9 2631.6}: next,
+{2632.9 2633.9 2635.4 2645.9 2648.6 2650.4 2651.4 2654.6 2657.9}: next,
+2665.4: var 0,
+2667.1: next,
+2672.4: jump back 2,
+2676.9: next,
+2735.1: switch next,
+2741.1: start w,
+{2775.6 2779.4 2780.4 2781.6 2812.9 2813.9}: next,
+2816.4: var 0,
+{2817.6 2818.6 2819.4}: next,
+2833.9: jump back 4 0.7,
+2900.6: next,
+2908.6: var 0,
+2926.1: undo,
+{2931.9 2937.4 2938.4 2944.4 2945.6 2947.1 2948.4 2949.4 2950.1 2951.4 2954.1 2955.9}: next,
+3007.9: switch next,
+3097.9: start w,
+3147.9: switch next,
+3150.6: start w,
+{3179.6 3180.9 3193.1 3194.1}: next,
+3207.4: switch previous,
+3260.9: var 0,
+3265.4: next,
+3281.6: jump start,
+3424.1: next 0,
+3437.4: var 0,
+{3439.4 3443.4 3445.9 3448.1 3449.6 3451.1}: next,
+3457.1: jump back 7,
+{3463.4 3468.4 3490.9 3494.9 3502.6}: next,
+3506.1: var 0,
+3510.1: next,
+3519.6: jump back 2,
+{3522.6 3538.6 3543.6 3544.9 3545.6 3549.4 3550.6 3552.4 3553.9}: next,
+3724.9: switch keeping_pawns_back_example,
+3736.9: start w,
+{3758.4 3760.4 3761.4}: next,
+3767.1: comment e4 and f5,
+3776.1: next,
+{3778.4 3778.9 3780.1 3793.6}: next,
+3806.4: jump back 4 0.5,
+3812.1: var 0,
+{3831.4 3836.9 3837.6 3839.1 3839.9 3841.6 3842.4 3843.1 3844.1}: next,
+3865.4: jump start,
+3901.4: var 0,
+{3901.9 3903.4 3913.9 3925.6 3928.6 3934.6 3936.9 3953.1 3953.9 3954.9 3955.4 3956.4 3957.4 3958.4 3959.1 3959.9 3960.6 3961.4 3962.6}: next,
+4000: end
+chapters
+intro: 1,
+waiting_move_sacrifice: 153,
+mowing_the_lawn: 831,
+moving_your_opponent's_pawns: 1620,
+moving_opponent's_pawns_practical_example: 1994,
+inducing_weaknesses: 2402,
+inducing_weaknesses_example2: 2708,
+corresponding_squares_example: 2987,
+keeping_your_pawns_back_example: 3662

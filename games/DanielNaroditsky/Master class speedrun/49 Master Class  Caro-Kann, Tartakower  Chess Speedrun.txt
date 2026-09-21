@@ -1,0 +1,49 @@
+url: https://youtu.be/cPVp5TWZR0w
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6 exf6 (5... gxf6 {This variation is considered slightly too weakening})6. Nf3 (6. c3 Bd6 7. Bd3 O-O 8. Qc2 Re8+ 9. Ne2 h5 (9... h6  10. Be3 Nd7 11. O-O-O Nf8 12. g4 Bxg4 (12... b5 13. h4) 13. Rhg1) 10. Be3 Nd7 11. O-O-O Nf8 (11... b5 {This was played in the game Duda Carlsen, Norway Chess 2020.}))Bd6 7. Bd3 O-O 8. O-O Bg4 9. Be3 Nd7 10. h3 (10. c3 Re8)Bh5
+11. Bf5 Re8 12. Bg4 Bg6 13. Nh4 Nb6 14. Nxg6 hxg6 15. b3 Bc7 16. c4 (16. Re1 f5 17. Bf3 Qh4) (16. Qf3 f5 16. Bxf5 gxf5 16. Qxf5)Qd6 17. g3 Rxe3 18. Qd2 (18. c5 Rxg3+ 19. Kh1 Rg1+ 20. Rxg1 Qh2#)Re4 19. Bf3 (19. c5 Qxd4 20. cxb6 axb6)Rxd4 (19... Rh4 20. Rad1 Rd4)20. Qe2 Nd7
+21. Rad1 Bb6 22. Kg2 Ne5 23. Be4 Rd8 24. Rc1 Rd2 25. Qe1 Qd4 26. c5 Bxc5
+timestamps
+6.7: start b,
+{8.4 13.7 17.4 19.2 20.2 54.5 60.7 77.4 82.4 99.9
+103.1 116.6 119.6 121.9 123.9 138.9 151.9 171.6 179.9 183.6
+187.6 224.1 226.4 253.1 262.9 291.6 314.1 315.6 339.4 345.6
+351.6 354.9 362.1 364.4 399.6 454.9 464.4 466.6 477.6 520.4
+546.6 575.4 602.6 615.4 645.4 648.1 650.1 671.9 695.9 699.6 704.4 720.4}: next,
+731.9: jump start,
+{732.9 733.6 734.4 735.1 736.1 736.6 737.6 738.9 741.1 742.3 788.1}: next,
+803.4: undo,
+806.9: var 0,
+{809.1 810.4 812.1 815.1 824.6 826.9}: next,
+832.1: next,
+840.1: undo,
+842.9: var 0,
+{865.4 866.9 868.1 871.1 874.9 876.9 877.9}: next,
+882.1: jump back 2,
+894.4: jump back 6 0.5,
+{898.9 914.4 915.4 918.6 931.6}: next,
+937.1: jump back 12 0.5,
+{944.4 946.1 947.1 947.6 948.6 949.4 951.6 952.4}: next,
+956.1: var 0,
+959.6: next,
+970.4: highlight f6,
+996.1: jump back 2,
+999.1: jump forward 10 0.3,
+{1051.9 1056.4}: next,
+1067.9: var 0,
+{1075.6 1076.9 1077.9}: next,
+1085.6: jump back 4,
+1099.1: var 1,
+{1109.9 1113.9 1115.4}: next,
+1118.6: jump back 4,
+{1124.9 1125.6 1126.9 1127.9}: next,
+1129.9: var 0,
+{1130.6 1132.1 1159.4 1160.4 1161.9}: next,
+1165.9: jump back 6 0.4,
+{1174.9 1176.6}: next,
+1181.4: var 0,
+{1182.6 1184.9 1185.9}: next,
+1354.4: jump back 4 0.5,
+1356.4: next,
+1360.4: var 0,
+{1375.9 1380.4}: next,
+1500: end
